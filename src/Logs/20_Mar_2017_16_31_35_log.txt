@@ -1,0 +1,15 @@
+2017-03-20 16:31:33,047 INFO  [Log] Test Scenario Configuration started 
+2017-03-20 16:31:33,057 INFO  [Log] Initialing HTML reporting 
+2017-03-20 16:31:33,439 INFO  [Log] Starting Test Suit Execution 
+2017-03-20 16:31:33,439 INFO  [Log] Creating Test suit report 
+2017-03-20 16:31:34,049 WARN  [Log] Browser instance value is null 
+2017-03-20 16:31:34,762 INFO  [Log] Object repository is created successfully 
+2017-03-20 16:31:34,874 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2017-03-20 16:31:34,874 FATAL [Log] No Data(Yes) column found in test scriptD:\Puresoftware_Automation\Automation\Automation_Framework_Puresoftware\src\DataEngine\RateGain -4.xlsx 
+2017-03-20 16:31:35,188 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-20 16:31:35,403 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-20 16:31:35,625 INFO  [Log] RateGain-4_RateGain -1 
+2017-03-20 16:31:35,778 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-20 16:31:35,948 INFO  [Log] ####Closing Test Suite #### 
+2017-03-20 16:31:35,948 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 16:31:35,948 INFO  [Log] Creating Logs backup and storing for further reference 

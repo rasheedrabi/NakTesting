@@ -1,0 +1,39 @@
+2017-04-10 16:18:16,622 INFO  [Log] Test Scenario Configuration started 
+2017-04-10 16:18:16,646 INFO  [Log] Initialing HTML reporting 
+2017-04-10 16:18:17,355 INFO  [Log] Starting Test Suit Execution 
+2017-04-10 16:18:17,355 INFO  [Log] Creating Test suit report 
+2017-04-10 16:18:18,119 WARN  [Log] Browser instance value is null 
+2017-04-10 16:18:18,824 INFO  [Log] Object repository is created successfully 
+2017-04-10 16:18:18,979 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-10 16:18:19,213 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-10 16:18:19,476 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-10 16:18:19,686 INFO  [Log] **************************************************************************************** 
+2017-04-10 16:18:19,687 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 16:18:19,687 INFO  [Log] **************************************************************************************** 
+2017-04-10 16:18:29,560 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-04-10 16:18:31,982 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-10 16:18:37,047 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:37,330 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-10 16:18:38,330 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:38,536 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-10 16:18:40,536 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:41,068 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-10 16:18:46,068 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:49,263 INFO  [Log] RG-09: clkLogin: Action click If 
+2017-04-10 16:18:54,264 INFO  [Log] RG-10; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:54,741 INFO  [Log] RG-11: Username: Action Submit If 
+2017-04-10 16:18:55,741 INFO  [Log] RG-12; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:18:55,996 INFO  [Log] RG-13: Password: Action Submit If 
+2017-04-10 16:18:57,997 INFO  [Log] RG-14; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 16:19:01,093 ERROR [Log] Error#: RateGain-1RG-15XpathClickIf  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-04-10 16:19:09,375 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-10 16:19:10,348 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-10 16:19:11,252 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-10 16:19:11,252 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 16:19:11,255 FATAL [Log] RateGain-1RG-15XpathClickIf  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-04-10 16:19:11,297 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 16:19:11,475 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-10 16:19:11,650 INFO  [Log] RateGain-6_RateGain -6 
+2017-04-10 16:19:11,871 INFO  [Log] ####Closing Test Suite #### 
+2017-04-10 16:19:11,871 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 16:19:11,871 INFO  [Log] Creating Logs backup and storing for further reference 

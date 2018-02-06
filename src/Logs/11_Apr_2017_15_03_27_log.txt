@@ -1,0 +1,11 @@
+2017-04-11 15:03:26,438 INFO  [Log] Test Scenario Configuration started 
+2017-04-11 15:03:26,460 INFO  [Log] Initialing HTML reporting 
+2017-04-11 15:03:26,601 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-11 15:03:26,601 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-11 15:03:26,601 FATAL [Log] RateGain-1RG-70XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-11 15:03:26,637 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-11 15:03:26,900 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-11 15:03:27,098 INFO  [Log] RateGain-6_RateGain -6 
+2017-04-11 15:03:27,271 INFO  [Log] ####Closing Test Suite #### 
+2017-04-11 15:03:27,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-11 15:03:27,271 INFO  [Log] Creating Logs backup and storing for further reference 

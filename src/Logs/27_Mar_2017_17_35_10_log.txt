@@ -1,0 +1,36 @@
+2017-03-27 17:34:23,051 INFO  [Log] Test Scenario Configuration started 
+2017-03-27 17:34:23,072 INFO  [Log] Initialing HTML reporting 
+2017-03-27 17:34:23,724 INFO  [Log] Starting Test Suit Execution 
+2017-03-27 17:34:23,724 INFO  [Log] Creating Test suit report 
+2017-03-27 17:34:24,798 WARN  [Log] Browser instance value is null 
+2017-03-27 17:34:25,756 INFO  [Log] Object repository is created successfully 
+2017-03-27 17:34:25,972 INFO  [Log] RateGain-1_RateGain -1 
+2017-03-27 17:34:26,323 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-27 17:34:26,616 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-27 17:34:27,015 INFO  [Log] **************************************************************************************** 
+2017-03-27 17:34:27,015 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-27 17:34:27,015 INFO  [Log] **************************************************************************************** 
+2017-03-27 17:34:34,843 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-03-27 17:34:40,240 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-03-27 17:34:45,265 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-27 17:34:45,512 INFO  [Log] RG-03: Click: Action click 
+2017-03-27 17:34:46,513 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-27 17:34:46,667 INFO  [Log] RG-05: Enter Text: Action Submit If 
+2017-03-27 17:34:48,669 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-27 17:34:52,281 INFO  [Log] RG-07: Select Hotel: Action click 
+2017-03-27 17:34:57,282 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-27 17:34:57,607 INFO  [Log] RG-09: Click on Reserve: Action click 
+2017-03-27 17:34:57,918 INFO  [Log] RG-11: Click on date; Action: Mouse Hover and Clicked 
+2017-03-27 17:34:59,200 INFO  [Log] RG-12: Click on done: Action click 
+2017-03-27 17:35:04,202 INFO  [Log] Blank; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-27 17:35:06,449 INFO  [Log] Closing instance of Browser: Chrome 
+2017-03-27 17:35:06,519 INFO  [Log] ### Test case: RateGain-4; Description: RateGain -4; status Executed 
+2017-03-27 17:35:09,373 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-03-27 17:35:09,597 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-03-27 17:35:09,817 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-03-27 17:35:09,817 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-27 17:35:09,817 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-27 17:35:09,937 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-27 17:35:10,087 INFO  [Log] ####Closing Test Suite #### 
+2017-03-27 17:35:10,087 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-27 17:35:10,087 INFO  [Log] Creating Logs backup and storing for further reference 

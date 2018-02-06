@@ -1,0 +1,140 @@
+2017-02-22 12:26:52,952 INFO  [Log] Test Scenario Configuration started 
+2017-02-22 12:26:52,983 INFO  [Log] Initialing HTML reporting 
+2017-02-22 12:26:54,070 INFO  [Log] Starting Test Suit Execution 
+2017-02-22 12:26:54,070 INFO  [Log] Creating Test suit report 
+2017-02-22 12:26:55,327 WARN  [Log] Browser instance value is null 
+2017-02-22 12:26:56,445 INFO  [Log] Object repository is created successfully 
+2017-02-22 12:26:56,621 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:26:56,621 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:26:56,621 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:27:05,602 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-22 12:27:16,086 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:27:26,121 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:27:26,729 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-22 12:27:27,151 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-22 12:27:35,928 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-22 12:27:45,930 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:27:46,223 INFO  [Log] RG-07; Passed; Verify Button; Value: enterprise view; Present in Page values: ENTERPRISE VIEW,  
+2017-02-22 12:27:46,453 INFO  [Log] RG-08; Passed; Verify Button; Value: property view; Present in Page values: PROPERTY VIEW,  
+2017-02-22 12:27:46,714 INFO  [Log] RG-09: Clickon left header: Action click 
+2017-02-22 12:27:56,717 INFO  [Log] RG-10; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:27:57,039 INFO  [Log] RG-11: Clickon Logout: Action click 
+2017-02-22 12:28:07,043 INFO  [Log] RG-12; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:28:09,266 INFO  [Log] RG-13: Click logout: Action click 
+2017-02-22 12:28:11,573 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-22 12:28:11,663 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-02-22 12:28:15,669 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:28:16,060 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:28:16,420 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:28:16,420 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:28:16,420 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:28:16,686 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:28:16,689 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-2; Description: RateGain -2 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:28:16,690 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:28:22,828 INFO  [Log] #### Executing Test case: RateGain-2; Description: RateGain -2 In Chrome Browser for TestData:1 
+2017-02-22 12:28:28,934 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:28:33,965 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:28:34,558 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-22 12:28:34,876 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-22 12:28:39,670 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-22 12:28:44,674 INFO  [Log] RG-06; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:28:45,102 INFO  [Log] RG-07: Click Button: Action click 
+2017-02-22 12:28:50,105 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:28:57,513 INFO  [Log] RG-09; Passed; Verify Meter Footer; Value: social sites; Present in Page values: Social Sites,  
+2017-02-22 12:28:59,532 INFO  [Log] RG-10; Passed; Verify Meter Header; Value: guest satisfaction meter; Present in Page values: Guest Satisfaction Meter,  
+2017-02-22 12:29:00,995 INFO  [Log] RG-11; Passed; Verify Meter label 1; Value: 0; Present in Page values: 0,  
+2017-02-22 12:29:01,259 INFO  [Log] RG-12; Passed; Verify Meter label 2; Value: 3; Present in Page values: 3,  
+2017-02-22 12:29:01,539 INFO  [Log] RG-13; Passed; Verify Meter label 3; Value: 7; Present in Page values: 7,  
+2017-02-22 12:29:01,834 INFO  [Log] RG-14; Passed; Verify Meter label 4; Value: 10; Present in Page values: 10,  
+2017-02-22 12:29:52,488 ERROR [Log] Error#: RateGain-1RG-15XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-22 12:29:58,772 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:29:59,453 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:30:00,194 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:30:00,194 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:30:00,194 FATAL [Log] RateGain-1RG-15XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-22 12:30:00,396 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:30:00,672 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:30:00,672 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain -3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:30:00,672 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:30:08,574 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain -3 In Chrome Browser for TestData:1 
+2017-02-22 12:30:17,499 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:30:22,551 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:30:23,473 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-22 12:30:23,748 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-22 12:30:38,799 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-22 12:30:43,806 INFO  [Log] RG-06; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:30:48,324 INFO  [Log] RG-07: Click Button: Action click 
+2017-02-22 12:30:53,328 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:32:16,158 INFO  [Log] RG-09; Passed; Verify Meter Header; Value: key stats; Present in Page values: Key Stats,  
+2017-02-22 12:32:22,505 INFO  [Log] RG-10; Passed; Verify Key Stats Item 1; Value: total reviews; Present in Page values: Total Reviews,  
+2017-02-22 12:32:26,981 INFO  [Log] RG-11; Passed; Verify Key Stats Item 2; Value: positive reviews; Present in Page values: Positive Reviews,  
+2017-02-22 12:32:31,455 INFO  [Log] RG-12; Passed; Verify Key Stats Item 3; Value: negative reviews; Present in Page values: Negative Reviews,  
+2017-02-22 12:32:35,971 INFO  [Log] RG-13; Passed; Verify Key Stats Item 4; Value: neutral reviews; Present in Page values: Neutral Reviews,  
+2017-02-22 12:32:38,972 INFO  [Log] RG-14; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:32:39,389 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-22 12:32:39,538 INFO  [Log] ### Test case: RateGain-3; Description: RateGain -3; status Executed 
+2017-02-22 12:32:43,947 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:32:44,652 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:32:45,360 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:32:45,361 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:32:45,361 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:32:45,824 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:32:45,824 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:32:45,824 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:32:53,913 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-02-22 12:33:08,406 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:33:13,436 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:33:13,939 INFO  [Log] RG-03: Click: Action click 
+2017-02-22 12:33:14,940 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:33:15,210 INFO  [Log] RG-05: Enter Text: Action Submit If 
+2017-02-22 12:33:17,211 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:33:27,262 INFO  [Log] RG-07: Select Hotel: Action click 
+2017-02-22 12:33:32,263 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:33:33,074 INFO  [Log] RG-09: Click on Reserve: Action click 
+2017-02-22 12:33:33,560 INFO  [Log] RG-11: Click on date; Action: Mouse Hover and Clicked 
+2017-02-22 12:33:38,038 ERROR [Log] Error#: RateGain-1RG-12XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1135, 562). Other element would receive the click: <div class="logo-loader" id="loader_booking">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 147 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '106.211.73.111', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir9844_22408}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6279671fea2ec8e037d28b8bf4af98adnull:Exception is not handled 
+2017-02-22 12:33:43,711 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:33:44,358 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:33:45,044 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:33:45,044 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:33:45,046 FATAL [Log] RateGain-1RG-12XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (1135, 562). Other element would receive the click: <div class="logo-loader" id="loader_booking">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 147 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '106.211.73.111', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir9844_22408}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6279671fea2ec8e037d28b8bf4af98adnull:Exception is not handled 
+2017-02-22 12:33:45,148 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:33:45,426 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:33:45,426 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-5; Description: RateGain -5 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:33:45,427 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:33:52,027 INFO  [Log] #### Executing Test case: RateGain-5; Description: RateGain -5 In Chrome Browser for TestData:1 
+2017-02-22 12:34:18,476 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:34:20,557 INFO  [Log] RG-02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:34:26,281 INFO  [Log] RG-03: Click on Exams: Action click 
+2017-02-22 12:34:27,284 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:35:03,697 INFO  [Log] RG-05: Select Exams: Action click 
+2017-02-22 12:35:05,697 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:35:27,643 INFO  [Log] Failed: RG-07: Verify Text; Value: ap european history new; is Not Present in Page values: AP European History,  
+2017-02-22 12:35:29,258 INFO  [Log] Failed: RG-09: Verify Text; Value: coop/hspt new; is Not Present in Page values: COOP/HSPT,  
+2017-02-22 12:35:31,741 INFO  [Log] RG-12; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:35:32,094 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-22 12:35:32,261 INFO  [Log] ### Test case: RateGain-5; Description: RateGain -5; status Executed 
+2017-02-22 12:35:36,110 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:35:37,159 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:35:37,905 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:35:37,906 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:35:37,906 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:35:38,266 INFO  [Log] ####Closing Test Suite #### 
+2017-02-22 12:35:38,266 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:35:38,266 INFO  [Log] Creating Logs backup and storing for further reference 

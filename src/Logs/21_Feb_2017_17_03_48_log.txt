@@ -1,0 +1,66 @@
+2017-02-21 17:02:52,168 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 17:02:52,208 INFO  [Log] Initialing HTML reporting 
+2017-02-21 17:02:53,531 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 17:02:53,531 INFO  [Log] Creating Test suit report 
+2017-02-21 17:02:55,126 WARN  [Log] Browser instance value is null 
+2017-02-21 17:02:56,603 INFO  [Log] Object repository is created successfully 
+2017-02-21 17:02:56,808 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-21 17:02:57,151 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 17:02:57,446 INFO  [Log] **************************************************************************************** 
+2017-02-21 17:02:57,446 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain-3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 17:02:57,446 INFO  [Log] **************************************************************************************** 
+2017-02-21 17:03:46,738 ERROR [Log] Error#: RateGain-3; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ecurity Web Control","description":null,"creator":"McAfee Inc.","homepageURL":"http://www.siteadvisor.com/"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\McAfee\\Endpoint Security\\Web Control\\wcffplg.xpi","installDate":1471552716000,"updateDate":1471552716000,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":349164,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"15.0","maxVersion":"50.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true}
+1487676780063	DeferredSave.extensions.json	DEBUG	Save changes
+1487676780063	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1487676780063	addons.xpi-utils	DEBUG	Updating add-on states
+1487676780064	addons.xpi-utils	DEBUG	Writing add-ons list
+1487676780068	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1487676780069	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1487676780069	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1487676780070	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1487676780071	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1487676780072	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1487676780101	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1487676780101	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1487676780104	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1487676780105	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1487676780105	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1487676780105	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1487676780105	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1487676780106	addons.manager	DEBUG	Starting provider: GMPProvider
+1487676780116	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1487676780117	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1487676780117	addons.manager	DEBUG	Starting provider: PluginProvider
+1487676780118	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1487676780118	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1487676780119	addons.manager	DEBUG	Completed startup sequence
+1487676781117	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1487676781117	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1487676781118	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1487676781950	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487676781951	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1487676781951	DeferredSave.extensions.json	DEBUG	Starting timer
+1487676781982	DeferredSave.extensions.json	DEBUG	Starting write
+1487676782011	addons.repository	DEBUG	No addons.json found.
+1487676782013	DeferredSave.addons.json	DEBUG	Save changes
+1487676782020	DeferredSave.addons.json	DEBUG	Starting timer
+1487676782109	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1487676782109	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1487676782110	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1487676782121	DeferredSave.addons.json	DEBUG	Starting write
+1487676782128	DeferredSave.extensions.json	DEBUG	Write succeeded
+1487676782319	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.218', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2017-02-21 17:03:46,860 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain-3 In Firefox Browser for TestData:1 
+2017-02-21 17:03:46,947 ERROR [Log] Error#: RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-02-21 17:03:47,944 WARN  [Log] Browser instance value is null 
+2017-02-21 17:03:47,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:03:47,945 FATAL [Log] RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-02-21 17:03:48,059 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:03:48,410 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 17:03:48,410 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:03:48,410 INFO  [Log] Creating Logs backup and storing for further reference 

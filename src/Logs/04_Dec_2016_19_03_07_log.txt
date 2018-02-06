@@ -1,0 +1,33 @@
+2016-12-04 19:02:46,778 INFO  [Log] Test Scenario Configuration started 
+2016-12-04 19:02:46,798 INFO  [Log] Initialing HTML reporting 
+2016-12-04 19:02:47,564 INFO  [Log] Starting Test Suit Execution 
+2016-12-04 19:02:47,564 INFO  [Log] Creating Test suit report 
+2016-12-04 19:02:49,144 WARN  [Log] Browser instance value is null 
+2016-12-04 19:02:50,133 INFO  [Log] Object repository is created successfully 
+2016-12-04 19:02:50,313 INFO  [Log] **************************************************************************************** 
+2016-12-04 19:02:50,313 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-04 19:02:50,313 INFO  [Log] **************************************************************************************** 
+2016-12-04 19:03:03,050 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Firefox Browser for TestData:1 
+2016-12-04 19:03:03,257 ERROR [Log] Error#: MagicBricksMB1880_01ObjectRep; Browser Window is Closed: org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 616ef406-59e7-403e-a829-293af5dc6062 
+2016-12-04 19:03:07,216 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: RemoteWebDriver 
+2016-12-04 19:03:07,216 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-04 19:03:07,216 FATAL [Log] MagicBricksMB1880_01ObjectRep; Browser Window is Closed: org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 616ef406-59e7-403e-a829-293af5dc6062 
+2016-12-04 19:03:07,299 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-04 19:03:07,555 INFO  [Log] ####Closing Test Suite #### 
+2016-12-04 19:03:07,556 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-04 19:03:07,556 INFO  [Log] Creating Logs backup and storing for further reference 

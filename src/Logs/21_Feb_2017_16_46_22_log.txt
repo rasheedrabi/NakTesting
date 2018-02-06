@@ -1,0 +1,33 @@
+2017-02-21 16:45:27,569 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 16:45:27,601 INFO  [Log] Initialing HTML reporting 
+2017-02-21 16:45:29,041 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 16:45:29,041 INFO  [Log] Creating Test suit report 
+2017-02-21 16:45:31,148 WARN  [Log] Browser instance value is null 
+2017-02-21 16:45:32,604 INFO  [Log] Object repository is created successfully 
+2017-02-21 16:45:32,900 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-21 16:45:33,493 INFO  [Log] **************************************************************************************** 
+2017-02-21 16:45:33,494 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-2; Description: RateGain -2 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 16:45:33,494 INFO  [Log] **************************************************************************************** 
+2017-02-21 16:45:40,888 INFO  [Log] #### Executing Test case: RateGain-2; Description: RateGain -2 In Chrome Browser for TestData:1 
+2017-02-21 16:45:44,839 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 16:45:49,929 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:45:50,604 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-21 16:45:51,061 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-21 16:45:56,314 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-21 16:46:01,342 INFO  [Log] RG-06; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:46:01,719 INFO  [Log] RG-07: Click Button: Action click 
+2017-02-21 16:46:06,720 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:46:13,893 INFO  [Log] RG-09; Passed; Verify Footer; Value: social sites; Present in Page values: Social Sites,  
+2017-02-21 16:46:14,797 INFO  [Log] RG-10; Passed; Verify Meter Header; Value: guest satisfaction meter; Present in Page values: Guest Satisfaction Meter,  
+2017-02-21 16:46:15,004 INFO  [Log] RG-11; Passed; Verify Meter label 1; Value: 0; Present in Page values: 0,  
+2017-02-21 16:46:15,135 ERROR [Log] Error#: RG-12Element Location type is not defined 
+2017-02-21 16:46:15,135 ERROR [Log] Error#: RateGain-1RG-12BlankVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 16:46:20,338 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 16:46:20,929 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 16:46:21,581 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 16:46:21,581 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:46:21,581 FATAL [Log] RateGain-1RG-12BlankVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 16:46:21,692 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:46:22,162 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 16:46:22,162 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:46:22,162 INFO  [Log] Creating Logs backup and storing for further reference 

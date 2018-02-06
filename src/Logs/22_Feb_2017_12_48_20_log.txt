@@ -1,0 +1,38 @@
+2017-02-22 12:47:26,487 INFO  [Log] Test Scenario Configuration started 
+2017-02-22 12:47:26,519 INFO  [Log] Initialing HTML reporting 
+2017-02-22 12:47:27,560 INFO  [Log] Starting Test Suit Execution 
+2017-02-22 12:47:27,560 INFO  [Log] Creating Test suit report 
+2017-02-22 12:47:28,748 WARN  [Log] Browser instance value is null 
+2017-02-22 12:47:29,784 INFO  [Log] Object repository is created successfully 
+2017-02-22 12:47:30,011 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-22 12:47:30,270 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-22 12:47:30,591 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:47:30,591 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain -3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-22 12:47:30,591 INFO  [Log] **************************************************************************************** 
+2017-02-22 12:47:37,798 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain -3 In Chrome Browser for TestData:1 
+2017-02-22 12:47:42,673 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-22 12:47:47,710 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:47:48,331 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-22 12:47:48,661 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-22 12:47:53,406 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-22 12:47:58,409 INFO  [Log] RG-06; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:47:58,725 INFO  [Log] RG-07: Click Button: Action click 
+2017-02-22 12:48:03,728 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:48:06,160 INFO  [Log] RG-09; Passed; Verify Meter Header; Value: key stats; Present in Page values: Key Stats,  
+2017-02-22 12:48:08,531 INFO  [Log] RG-10; Passed; Verify Key Stats Item 1; Value: total reviews; Present in Page values: Total Reviews,  
+2017-02-22 12:48:08,822 INFO  [Log] RG-11; Passed; Verify Key Stats Item 2; Value: positive reviews; Present in Page values: Positive Reviews,  
+2017-02-22 12:48:09,082 INFO  [Log] RG-12; Passed; Verify Key Stats Item 3; Value: negative reviews; Present in Page values: Negative Reviews,  
+2017-02-22 12:48:09,352 INFO  [Log] RG-13; Passed; Verify Key Stats Item 4; Value: neutral reviews; Present in Page values: Neutral Reviews,  
+2017-02-22 12:48:12,362 INFO  [Log] RG-14; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-22 12:48:12,768 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-22 12:48:12,993 INFO  [Log] ### Test case: RateGain-3; Description: RateGain -3; status Executed 
+2017-02-22 12:48:17,900 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-22 12:48:18,591 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-22 12:48:19,171 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-22 12:48:19,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:48:19,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:48:19,422 INFO  [Log] RateGain-4_RateGain -4 
+2017-02-22 12:48:19,694 INFO  [Log] RateGain-5_RateGain -5 
+2017-02-22 12:48:20,032 INFO  [Log] ####Closing Test Suite #### 
+2017-02-22 12:48:20,032 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-22 12:48:20,032 INFO  [Log] Creating Logs backup and storing for further reference 

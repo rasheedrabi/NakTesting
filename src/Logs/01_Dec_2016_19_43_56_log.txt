@@ -1,0 +1,26 @@
+2016-12-01 19:43:36,867 INFO  [Log] Test Scenario Configuration started 
+2016-12-01 19:43:36,903 INFO  [Log] Initialing HTML reporting 
+2016-12-01 19:43:38,216 INFO  [Log] Starting Test Suit Execution 
+2016-12-01 19:43:38,216 INFO  [Log] Creating Test suit report 
+2016-12-01 19:43:39,715 WARN  [Log] Browser instance value is null 
+2016-12-01 19:43:41,188 INFO  [Log] Object repository is created successfully 
+2016-12-01 19:43:41,386 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:43:41,386 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-01 19:43:41,387 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:43:54,330 ERROR [Log] Error#: PropertyDetails_Test Case MB-1695; Error in communicating with Browserorg.openqa.selenium.SessionNotCreatedException: session not created exception
+from unknown error: Runtime.executionContextCreated has invalid 'context': {"auxData":{"frameId":"4556.1","isDefault":true},"id":1,"name":"","origin":"://"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.98 seconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-12-01 19:43:54,554 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Chrome Browser for TestData:1 
+2016-12-01 19:43:54,663 ERROR [Log] Error#: MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:43:56,033 WARN  [Log] Browser instance value is null 
+2016-12-01 19:43:56,033 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:43:56,033 FATAL [Log] MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:43:56,191 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:43:56,629 INFO  [Log] ####Closing Test Suite #### 
+2016-12-01 19:43:56,629 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:43:56,629 INFO  [Log] Creating Logs backup and storing for further reference 

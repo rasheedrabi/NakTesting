@@ -1,0 +1,27 @@
+2017-02-20 16:53:33,236 INFO  [Log] Test Scenario Configuration started 
+2017-02-20 16:53:33,267 INFO  [Log] Initialing HTML reporting 
+2017-02-20 16:53:34,529 INFO  [Log] Starting Test Suit Execution 
+2017-02-20 16:53:34,529 INFO  [Log] Creating Test suit report 
+2017-02-20 16:53:36,042 WARN  [Log] Browser instance value is null 
+2017-02-20 16:53:37,240 INFO  [Log] Object repository is created successfully 
+2017-02-20 16:53:37,415 INFO  [Log] **************************************************************************************** 
+2017-02-20 16:53:37,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 16:53:37,415 INFO  [Log] **************************************************************************************** 
+2017-02-20 16:53:46,470 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-20 16:53:50,830 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-20 16:54:00,899 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 16:54:01,581 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-20 16:54:01,879 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-20 16:54:07,658 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-20 16:54:17,668 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 16:54:18,009 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-20 16:54:18,336 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-02-20 16:54:23,468 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-20 16:54:24,141 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-20 16:54:24,821 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-20 16:54:24,831 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:54:24,831 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:54:25,194 INFO  [Log] ProjectDetails_Test Case MB-1880_ProjectDetails_Test Case MB-1880 
+2017-02-20 16:54:25,644 INFO  [Log] ####Closing Test Suite #### 
+2017-02-20 16:54:25,644 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:54:25,644 INFO  [Log] Creating Logs backup and storing for further reference 

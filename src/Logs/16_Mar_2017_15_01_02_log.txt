@@ -1,0 +1,14 @@
+2017-03-16 15:00:49,780 INFO  [Log] Test Scenario Configuration started 
+2017-03-16 15:00:49,915 INFO  [Log] Initialing HTML reporting 
+2017-03-16 15:00:52,050 INFO  [Log] Starting Test Suit Execution 
+2017-03-16 15:00:52,050 INFO  [Log] Creating Test suit report 
+2017-03-16 15:00:58,291 WARN  [Log] Browser instance value is null 
+2017-03-16 15:01:00,162 INFO  [Log] Object repository is created successfully 
+2017-03-16 15:01:00,572 INFO  [Log] RateGain-1_Sample-1 
+2017-03-16 15:01:00,833 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-16 15:01:01,115 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-16 15:01:01,322 INFO  [Log] RateGain-4_RateGain -4 
+2017-03-16 15:01:01,713 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-16 15:01:01,928 INFO  [Log] ####Closing Test Suite #### 
+2017-03-16 15:01:01,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-16 15:01:01,928 INFO  [Log] Creating Logs backup and storing for further reference 

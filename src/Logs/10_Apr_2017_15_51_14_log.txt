@@ -1,0 +1,47 @@
+2017-04-10 15:49:33,718 INFO  [Log] Test Scenario Configuration started 
+2017-04-10 15:49:33,738 INFO  [Log] Initialing HTML reporting 
+2017-04-10 15:49:34,398 INFO  [Log] Starting Test Suit Execution 
+2017-04-10 15:49:34,398 INFO  [Log] Creating Test suit report 
+2017-04-10 15:49:35,019 WARN  [Log] Browser instance value is null 
+2017-04-10 15:49:35,653 INFO  [Log] Object repository is created successfully 
+2017-04-10 15:49:35,804 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-10 15:49:36,051 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-10 15:49:36,348 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-10 15:49:36,533 INFO  [Log] **************************************************************************************** 
+2017-04-10 15:49:36,533 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 15:49:36,533 INFO  [Log] **************************************************************************************** 
+2017-04-10 15:49:45,578 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-04-10 15:49:47,392 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-10 15:49:52,487 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:49:52,739 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-10 15:49:53,766 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:49:53,952 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-10 15:49:55,979 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:49:56,992 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-10 15:50:02,019 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:10,322 INFO  [Log] RG-07: clkLogin: Action Element is not present moving to next step 
+2017-04-10 15:50:15,322 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:20,597 INFO  [Log] RG-09: Username: Action Element is not present moving to next step 
+2017-04-10 15:50:21,599 INFO  [Log] RG-10; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:26,846 INFO  [Log] RG-11: Password: Action Element is not present moving to next step 
+2017-04-10 15:50:28,847 INFO  [Log] RG-12; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:37,158 INFO  [Log] RG-13: clkLogin: Action Element is not present moving to next step 
+2017-04-10 15:50:42,160 INFO  [Log] RG-14; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:42,994 INFO  [Log] RG-15: ClickAdd: Action click 
+2017-04-10 15:50:48,021 INFO  [Log] RG-16; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:48,184 INFO  [Log] RG-17: SelectIT: Action click 
+2017-04-10 15:50:53,186 INFO  [Log] RG-18; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:50:53,478 INFO  [Log] RG-19: DropDownSelectIT; Action: Drop Down Select 
+2017-04-10 15:50:58,498 INFO  [Log] RG-20; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-10 15:51:03,391 ERROR [Log] Error#: RateGain-1RG-21XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-10 15:51:12,326 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-10 15:51:13,167 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-10 15:51:13,957 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-10 15:51:13,957 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 15:51:13,958 FATAL [Log] RateGain-1RG-21XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-10 15:51:13,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 15:51:14,200 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-10 15:51:14,442 INFO  [Log] RateGain-6_RateGain -6 
+2017-04-10 15:51:14,597 INFO  [Log] ####Closing Test Suite #### 
+2017-04-10 15:51:14,597 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 15:51:14,597 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,36 @@
+2017-03-20 12:30:02,202 INFO  [Log] Test Scenario Configuration started 
+2017-03-20 12:30:02,536 INFO  [Log] Initialing HTML reporting 
+2017-03-20 12:30:03,344 INFO  [Log] Starting Test Suit Execution 
+2017-03-20 12:30:03,344 INFO  [Log] Creating Test suit report 
+2017-03-20 12:30:05,512 WARN  [Log] Browser instance value is null 
+2017-03-20 12:30:06,716 INFO  [Log] Object repository is created successfully 
+2017-03-20 12:30:06,986 INFO  [Log] **************************************************************************************** 
+2017-03-20 12:30:06,986 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: Sample-1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-20 12:30:06,986 INFO  [Log] **************************************************************************************** 
+2017-03-20 12:30:22,858 INFO  [Log] #### Executing Test case: RateGain-1; Description: Sample-1 In Chrome Browser for TestData:1 
+2017-03-20 12:30:29,481 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-03-20 12:30:39,504 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 12:30:39,787 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-03-20 12:30:39,898 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-03-20 12:30:45,673 INFO  [Log] RG-05: Click on Login: Action click 
+2017-03-20 12:30:55,692 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 12:30:56,861 INFO  [Log] RG-07: EnterPriceClick: Action click 
+2017-03-20 12:31:06,862 INFO  [Log] RG-08; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 12:31:26,601 INFO  [Log] RG-09: ToolTipNavigation: ToolTipNavigation 
+2017-03-20 12:31:36,602 INFO  [Log] RG-10; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 12:35:04,607 INFO  [Log] Cleanliness: 8.27 | Individual Coverage: 15.06% | Cumulative Coverage: 15.06%; Value has been stored in index: 0 
+2017-03-20 12:35:54,210 INFO  [Log] RG-12; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 12:35:54,211 FATAL [Log] BlankBlank:Action Keyword is not defined. Please defined Action Keyword 
+2017-03-20 12:35:57,640 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-03-20 12:35:57,887 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-03-20 12:35:58,127 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-03-20 12:35:58,127 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 12:35:58,127 FATAL [Log]  
+2017-03-20 12:35:58,169 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 12:35:58,385 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-20 12:35:58,613 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-20 12:35:58,786 INFO  [Log] RateGain-4_RateGain -4 
+2017-03-20 12:35:59,011 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-20 12:35:59,211 INFO  [Log] ####Closing Test Suite #### 
+2017-03-20 12:35:59,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 12:35:59,211 INFO  [Log] Creating Logs backup and storing for further reference 

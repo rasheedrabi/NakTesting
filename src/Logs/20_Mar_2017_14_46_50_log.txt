@@ -1,0 +1,36 @@
+2017-03-20 14:43:57,421 INFO  [Log] Test Scenario Configuration started 
+2017-03-20 14:43:57,511 INFO  [Log] Initialing HTML reporting 
+2017-03-20 14:43:57,891 INFO  [Log] Starting Test Suit Execution 
+2017-03-20 14:43:57,891 INFO  [Log] Creating Test suit report 
+2017-03-20 14:43:58,542 WARN  [Log] Browser instance value is null 
+2017-03-20 14:43:59,244 INFO  [Log] Object repository is created successfully 
+2017-03-20 14:43:59,365 INFO  [Log] **************************************************************************************** 
+2017-03-20 14:43:59,365 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: Sample-1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-20 14:43:59,365 INFO  [Log] **************************************************************************************** 
+2017-03-20 14:44:10,952 INFO  [Log] #### Executing Test case: RateGain-1; Description: Sample-1 In Chrome Browser for TestData:1 
+2017-03-20 14:44:17,094 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-03-20 14:44:27,133 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 14:44:27,319 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-03-20 14:44:27,427 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-03-20 14:44:33,731 INFO  [Log] RG-05: Click on Login: Action click 
+2017-03-20 14:44:43,754 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 14:44:45,010 INFO  [Log] RG-07: EnterPriceClick: Action click 
+2017-03-20 14:44:55,010 INFO  [Log] RG-08; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 14:45:03,479 INFO  [Log] RG-09: ToolTipNavigation: ToolTipNavigation 
+2017-03-20 14:45:13,485 INFO  [Log] RG-10; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 14:45:18,443 INFO  [Log] Cleanliness: 8.27 | Individual Coverage: 15.07% | Cumulative Coverage: 15.07%; Value has been stored in index: 0 
+2017-03-20 14:45:28,452 INFO  [Log] RG-12; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-20 14:46:45,201 ERROR [Log] Error#: RateGain-1RG-13BlankVerifyValueInExcel  org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)null:Exception is not handled 
+2017-03-20 14:46:48,927 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-03-20 14:46:49,203 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-03-20 14:46:49,443 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-03-20 14:46:49,443 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 14:46:49,443 FATAL [Log] RateGain-1RG-13BlankVerifyValueInExcel  org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)null:Exception is not handled 
+2017-03-20 14:46:49,503 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 14:46:49,763 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-20 14:46:49,973 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-20 14:46:50,154 INFO  [Log] RateGain-4_RateGain -4 
+2017-03-20 14:46:50,359 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-20 14:46:50,570 INFO  [Log] ####Closing Test Suite #### 
+2017-03-20 14:46:50,570 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-20 14:46:50,570 INFO  [Log] Creating Logs backup and storing for further reference 

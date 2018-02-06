@@ -1,0 +1,111 @@
+2017-04-13 14:17:22,958 INFO  [Log] Test Scenario Configuration started 
+2017-04-13 14:17:22,975 INFO  [Log] Initialing HTML reporting 
+2017-04-13 14:17:23,661 INFO  [Log] Starting Test Suit Execution 
+2017-04-13 14:17:23,661 INFO  [Log] Creating Test suit report 
+2017-04-13 14:17:24,376 WARN  [Log] Browser instance value is null 
+2017-04-13 14:17:25,178 INFO  [Log] Object repository is created successfully 
+2017-04-13 14:17:25,409 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-13 14:17:25,644 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-13 14:17:25,890 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-13 14:17:26,091 INFO  [Log] RateGain-4_RateGain -4 
+2017-04-13 14:17:26,265 INFO  [Log] **************************************************************************************** 
+2017-04-13 14:17:26,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-5; Description: RateGain -5 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-13 14:17:26,265 INFO  [Log] **************************************************************************************** 
+2017-04-13 14:17:37,390 INFO  [Log] #### Executing Test case: RateGain-5; Description: RateGain -5 In Chrome Browser for TestData:1 
+2017-04-13 14:17:39,331 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-13 14:17:44,351 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:17:44,660 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-13 14:17:45,660 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:17:45,850 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-13 14:17:47,851 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:17:48,552 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-13 14:17:49,553 INFO  [Log] RG-08; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:17:57,873 INFO  [Log] RG-09: clkLogin: Action Element is not present moving to next step 
+2017-04-13 14:17:58,873 INFO  [Log] RG-10; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:04,309 INFO  [Log] RG-11: Username: Action Element is not present moving to next step 
+2017-04-13 14:18:05,310 INFO  [Log] RG-12; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:10,663 INFO  [Log] RG-13: Password: Action Element is not present moving to next step 
+2017-04-13 14:18:16,664 INFO  [Log] RG-14; Not Waited 6000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:24,979 INFO  [Log] RG-15: clkLogin: Action Element is not present moving to next step 
+2017-04-13 14:18:27,979 INFO  [Log] RG-16; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:28,872 INFO  [Log] RG-17: ClickAdd: Action click 
+2017-04-13 14:18:31,873 INFO  [Log] RG-18; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:32,043 INFO  [Log] RG-19: SelectIT: Action click 
+2017-04-13 14:18:37,044 INFO  [Log] RG-20; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:37,373 INFO  [Log] RG-21: DropDownSelectIT; Action: Drop Down Select 
+2017-04-13 14:18:42,374 INFO  [Log] RG-22; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:42,650 INFO  [Log] RG-23: Clientcodekeys; Action: Submit Random Value: 46802; Index No is0 
+2017-04-13 14:18:47,650 INFO  [Log] RG-24; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:47,867 INFO  [Log] RG-25: LastName; Action: Submited Value 
+2017-04-13 14:18:50,869 INFO  [Log] RG-26; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:51,642 INFO  [Log] RG-27: ClkSave: Action click 
+2017-04-13 14:18:54,643 INFO  [Log] RG-28; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:54,849 INFO  [Log] RG-29: ClickRStaus: Action click 
+2017-04-13 14:18:57,849 INFO  [Log] RG-30; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:18:58,365 INFO  [Log] RG-31: ClkSave: Action click 
+2017-04-13 14:19:01,366 INFO  [Log] RG-32; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:01,822 INFO  [Log] RG-33: ClickIncome: Action click 
+2017-04-13 14:19:04,823 INFO  [Log] RG-34; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:05,012 INFO  [Log] RG-35: IncomeDrpdwn; Action: Drop Down Select 
+2017-04-13 14:19:10,012 INFO  [Log] RG-36; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:10,162 INFO  [Log] RG-37: ClkSave: Action click 
+2017-04-13 14:19:15,163 INFO  [Log] RG-38; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:17,316 INFO  [Log] RG-39: ClkSaveconfrm: Action click 
+2017-04-13 14:19:22,317 INFO  [Log] RG-40; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:23,007 INFO  [Log] RG-41: ClkIncomeDetails: Action click 
+2017-04-13 14:19:25,007 INFO  [Log] RG-42; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:25,168 INFO  [Log] RG-43: CSendSalDetails; Action: Submited Value 
+2017-04-13 14:19:27,169 INFO  [Log] RG-44; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:27,365 INFO  [Log] RG-45: SendOtherSouurs; Action: Submited Value 
+2017-04-13 14:19:29,365 INFO  [Log] RG-46; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:29,631 INFO  [Log] RG-47: ClkExcept; Action: Submited Value 
+2017-04-13 14:19:31,631 INFO  [Log] RG-48; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:32,628 INFO  [Log] RG-49: ClkSave: Action click 
+2017-04-13 14:19:37,629 INFO  [Log] RG-50; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:38,049 INFO  [Log] RG-51: ClkComputation: Action click 
+2017-04-13 14:19:43,049 INFO  [Log] RG-52; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:43,214 INFO  [Log] RG-53: DateSelect: Action click 
+2017-04-13 14:19:45,215 INFO  [Log] RG-54; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:45,541 INFO  [Log] Failed: RG-55: CmpreSalary; Value: 50000; is Not Present in Page values: ,  
+2017-04-13 14:19:47,748 INFO  [Log] RG-56; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:47,968 INFO  [Log] Failed: RG-57: Cmpreothere; Value: 10000; is Not Present in Page values: ,  
+2017-04-13 14:19:53,119 INFO  [Log] RG-58; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:53,366 INFO  [Log] Failed: RG-59: CmpTotal; Value: 60000; is Not Present in Page values: ,  
+2017-04-13 14:19:58,497 INFO  [Log] RG-60; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:19:58,759 INFO  [Log] Failed: RG-61: CmpGrandTotal; Value: 60000; is Not Present in Page values: ,  
+2017-04-13 14:20:03,970 INFO  [Log] RG-62; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:04,138 INFO  [Log] RG-63: Dropdown click: Action click 
+2017-04-13 14:20:09,139 INFO  [Log] RG-64; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:10,339 INFO  [Log] RG-65: ClkTax: Action click 
+2017-04-13 14:20:15,341 INFO  [Log] RG-66; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:15,547 INFO  [Log] RG-67: Clkdate: Action click 
+2017-04-13 14:20:20,548 INFO  [Log] RG-68; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:20,723 INFO  [Log] RG-69: choosedate: Action click 
+2017-04-13 14:20:25,724 INFO  [Log] RG-70; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:25,868 INFO  [Log] RG-71: ClkDouble: Action click 
+2017-04-13 14:20:25,992 INFO  [Log] RG-72: ClkDouble: Action click 
+2017-04-13 14:20:30,993 INFO  [Log] RG-73; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:31,234 INFO  [Log] RG-74: Sendvalue; Action: Submit Random Value: 4968384; Index No is1 
+2017-04-13 14:20:35,236 INFO  [Log] RG-75; Not Waited 4000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:35,395 INFO  [Log] RG-76: ClkDoubleChallan: Action click 
+2017-04-13 14:20:35,489 INFO  [Log] RG-76: ClkDoubleChallan: Action click 
+2017-04-13 14:20:39,489 INFO  [Log] RG-77; Not Waited 4000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:39,719 INFO  [Log] RG-78: SendChallanValue; Action: Submit Random Value: 69937; Index No is2 
+2017-04-13 14:20:43,720 INFO  [Log] RG-79; Not Waited 4000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:43,885 INFO  [Log] RG-80: ClkSave: Action click 
+2017-04-13 14:20:48,886 INFO  [Log] RG-81; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:53,079 INFO  [Log] RG-82: LogOut; Action: Mouse Hover 
+2017-04-13 14:20:58,081 INFO  [Log] RG-83; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:20:58,483 INFO  [Log] RG-84: ClkLogout: Action click 
+2017-04-13 14:21:03,485 INFO  [Log] RG-85; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-13 14:21:05,743 INFO  [Log] Closing instance of Browser: Chrome 
+2017-04-13 14:21:05,797 INFO  [Log] ### Test case: RateGain-5; Description: RateGain -5; status Executed 
+2017-04-13 14:21:10,634 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-13 14:21:11,543 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-13 14:21:12,409 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-13 14:21:12,409 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-13 14:21:12,409 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-13 14:21:12,541 INFO  [Log] RateGain-6_RateGain -6 
+2017-04-13 14:21:12,677 INFO  [Log] ####Closing Test Suite #### 
+2017-04-13 14:21:12,678 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-13 14:21:12,678 INFO  [Log] Creating Logs backup and storing for further reference 

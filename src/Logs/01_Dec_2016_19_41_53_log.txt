@@ -1,0 +1,19 @@
+2016-12-01 19:41:45,404 INFO  [Log] Test Scenario Configuration started 
+2016-12-01 19:41:45,461 INFO  [Log] Initialing HTML reporting 
+2016-12-01 19:41:47,095 INFO  [Log] Starting Test Suit Execution 
+2016-12-01 19:41:47,096 INFO  [Log] Creating Test suit report 
+2016-12-01 19:41:49,389 WARN  [Log] Browser instance value is null 
+2016-12-01 19:41:51,507 INFO  [Log] Object repository is created successfully 
+2016-12-01 19:41:51,727 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:41:51,727 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-01 19:41:51,727 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:41:51,958 ERROR [Log] Error#: PropertyDetails_Test Case MB-1695; Error in communicating with Browserjava.lang.IllegalStateException: The driver executable does not exist: D:\Automation\Automation_Framework_Puresoftware\driver\chromedriver.exe 
+2016-12-01 19:41:52,069 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Chrome Browser for TestData:1 
+2016-12-01 19:41:52,121 ERROR [Log] Error#: MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:41:52,712 WARN  [Log] Browser instance value is null 
+2016-12-01 19:41:52,712 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:41:52,712 FATAL [Log] MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:41:52,909 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:41:53,404 INFO  [Log] ####Closing Test Suite #### 
+2016-12-01 19:41:53,404 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:41:53,404 INFO  [Log] Creating Logs backup and storing for further reference 

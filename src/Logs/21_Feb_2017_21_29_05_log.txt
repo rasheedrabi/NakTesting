@@ -1,0 +1,32 @@
+2017-02-21 21:28:03,896 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 21:28:03,927 INFO  [Log] Initialing HTML reporting 
+2017-02-21 21:28:04,930 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 21:28:04,930 INFO  [Log] Creating Test suit report 
+2017-02-21 21:28:06,080 WARN  [Log] Browser instance value is null 
+2017-02-21 21:28:07,108 INFO  [Log] Object repository is created successfully 
+2017-02-21 21:28:07,254 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:28:07,254 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 21:28:07,254 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:28:15,572 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-21 21:28:23,217 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 21:28:28,257 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:28:28,866 INFO  [Log] RG-03: Click: Action click 
+2017-02-21 21:28:29,873 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:28:30,208 INFO  [Log] RG-05: Enter Text: Action Submit If 
+2017-02-21 21:28:32,210 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:28:40,956 INFO  [Log] RG-07: Select Hotel: Action click 
+2017-02-21 21:28:45,968 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:28:46,544 INFO  [Log] RG-09: Click on Reserve: Action click 
+2017-02-21 21:28:56,615 INFO  [Log] RG-10: Form Switch; Action:No New window is identified on the screen based on the provded values/driver Handles 
+2017-02-21 21:28:56,635 ERROR [Log] Error#: RG-10: Form Switch; Action: Window Switch is not performed to the Desired window 
+2017-02-21 21:29:02,451 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 21:29:03,042 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 21:29:03,757 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 21:29:03,757 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:29:03,757 FATAL [Log]  
+2017-02-21 21:29:03,956 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:29:04,783 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 21:29:05,352 INFO  [Log] RateGain-3_RateGain-3 
+2017-02-21 21:29:05,715 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 21:29:05,715 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:29:05,716 INFO  [Log] Creating Logs backup and storing for further reference 

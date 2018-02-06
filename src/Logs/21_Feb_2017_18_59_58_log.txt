@@ -1,0 +1,32 @@
+2017-02-21 18:59:09,538 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 18:59:09,592 INFO  [Log] Initialing HTML reporting 
+2017-02-21 18:59:10,952 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 18:59:10,952 INFO  [Log] Creating Test suit report 
+2017-02-21 18:59:12,440 WARN  [Log] Browser instance value is null 
+2017-02-21 18:59:13,784 INFO  [Log] Object repository is created successfully 
+2017-02-21 18:59:13,986 INFO  [Log] **************************************************************************************** 
+2017-02-21 18:59:13,986 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 18:59:13,986 INFO  [Log] **************************************************************************************** 
+2017-02-21 18:59:22,744 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-21 18:59:28,798 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 18:59:33,829 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 18:59:34,309 INFO  [Log] RG-03: Click: Action click 
+2017-02-21 18:59:35,311 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 18:59:35,630 INFO  [Log] RG-05: Enter Text: Action Submit If 
+2017-02-21 18:59:37,632 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 18:59:44,079 INFO  [Log] RG-07: Select Hotel: Action click 
+2017-02-21 18:59:49,081 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 18:59:49,803 INFO  [Log] RG-09: Click on Reserve: Action click 
+2017-02-21 18:59:50,093 ERROR [Log] Error#: RG-10Element Location type is not defined 
+2017-02-21 18:59:50,094 ERROR [Log] Error#: RateGain-1RG-10BlankFrameSwitch  java.lang.NullPointerException: null value in entry: id=nullnull:Exception is not handled 
+2017-02-21 18:59:55,874 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 18:59:56,540 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 18:59:57,116 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 18:59:57,116 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 18:59:57,116 FATAL [Log] RateGain-1RG-10BlankFrameSwitch  java.lang.NullPointerException: null value in entry: id=nullnull:Exception is not handled 
+2017-02-21 18:59:57,324 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 18:59:57,927 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 18:59:58,378 INFO  [Log] RateGain-3_RateGain-3 
+2017-02-21 18:59:58,676 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 18:59:58,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 18:59:58,676 INFO  [Log] Creating Logs backup and storing for further reference 

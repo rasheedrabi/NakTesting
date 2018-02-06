@@ -1,0 +1,31 @@
+2017-02-21 16:03:11,912 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 16:03:11,975 INFO  [Log] Initialing HTML reporting 
+2017-02-21 16:03:13,026 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 16:03:13,026 INFO  [Log] Creating Test suit report 
+2017-02-21 16:03:15,453 WARN  [Log] Browser instance value is null 
+2017-02-21 16:03:16,840 INFO  [Log] Object repository is created successfully 
+2017-02-21 16:03:17,218 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-21 16:03:17,599 INFO  [Log] **************************************************************************************** 
+2017-02-21 16:03:17,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-2; Description: RateGain -2 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 16:03:17,599 INFO  [Log] **************************************************************************************** 
+2017-02-21 16:03:34,527 INFO  [Log] #### Executing Test case: RateGain-2; Description: RateGain -2 In Chrome Browser for TestData:1 
+2017-02-21 16:03:37,990 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 16:03:48,040 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:03:48,368 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-21 16:03:48,562 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-21 16:03:52,541 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-21 16:04:02,560 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:04:04,020 INFO  [Log] RG-07: Click Button: Action click 
+2017-02-21 16:04:14,024 INFO  [Log] RG-08; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 16:04:15,325 INFO  [Log] RG-09; Passed; Verify Footer; Value: social sites; Present in Page values: Social Sites,  
+2017-02-21 16:04:15,539 INFO  [Log] RG-10; Passed; Verify Meter Header; Value: guest satisfaction meter; Present in Page values: Guest Satisfaction Meter,  
+2017-02-21 16:05:06,069 ERROR [Log] Error#: RateGain-1RG-11XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 16:05:11,886 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 16:05:12,266 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 16:05:12,627 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 16:05:12,627 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:05:12,627 FATAL [Log] RateGain-1RG-11XpathVerifyText: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 16:05:12,703 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:05:13,129 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 16:05:13,130 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 16:05:13,130 INFO  [Log] Creating Logs backup and storing for further reference 

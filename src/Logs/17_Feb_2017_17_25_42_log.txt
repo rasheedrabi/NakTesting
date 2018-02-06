@@ -1,0 +1,31 @@
+2017-02-17 17:24:42,962 INFO  [Log] Test Scenario Configuration started 
+2017-02-17 17:24:42,991 INFO  [Log] Initialing HTML reporting 
+2017-02-17 17:24:44,097 INFO  [Log] Starting Test Suit Execution 
+2017-02-17 17:24:44,098 INFO  [Log] Creating Test suit report 
+2017-02-17 17:24:45,569 WARN  [Log] Browser instance value is null 
+2017-02-17 17:24:47,138 INFO  [Log] Object repository is created successfully 
+2017-02-17 17:24:47,460 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:24:47,460 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: 1_6_NewProjects_Test Case MB-312; Description: 1_6_NewProjects_Test Case MB-312 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-17 17:24:47,462 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:24:57,263 INFO  [Log] #### Executing Test case: 1_6_NewProjects_Test Case MB-312; Description: 1_6_NewProjects_Test Case MB-312 In Chrome Browser for TestData:1 
+2017-02-17 17:25:06,426 INFO  [Log] MB-312_01: Open URL; Action: open URL 
+2017-02-17 17:25:16,475 INFO  [Log] MB-312_02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:25:16,938 INFO  [Log] MB-312_03; Passed; Verify be a pro heading is available; Value: be a pro: make wise investment decisions; Present in Page values: Be a Pro: Make Wise Investment Decisions,  
+2017-02-17 17:25:19,940 INFO  [Log] MB-312_04; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:25:20,438 INFO  [Log] MB-312_05; Passed; Verify/Click view rating; Value: view rating; Present in Page values: View Rating,  
+2017-02-17 17:25:23,450 INFO  [Log] MB-312_06; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:25:24,031 INFO  [Log] MB-312_07; Passed; Verify/Click Track trends; Value: track trends; Present in Page values: Track Trends,  
+2017-02-17 17:25:27,032 INFO  [Log] MB-312_08; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:25:27,675 INFO  [Log] MB-312_09; Passed; Verify/Click Compare projects; Value: compare projects; Present in Page values: Compare Projects,  
+2017-02-17 17:25:30,677 INFO  [Log] MB-312_10; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:25:31,299 INFO  [Log] MB-312_11; Passed; Verify/Click Check progress; Value: check progress; Present in Page values: Check Progress,  
+2017-02-17 17:25:33,559 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-17 17:25:33,884 INFO  [Log] ### Test case: 1_6_NewProjects_Test Case MB-312; Description: 1_6_NewProjects_Test Case MB-312; status Executed 
+2017-02-17 17:25:39,948 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-17 17:25:40,683 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-17 17:25:41,565 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-17 17:25:41,565 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:25:41,565 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:25:42,115 INFO  [Log] ####Closing Test Suite #### 
+2017-02-17 17:25:42,115 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:25:42,115 INFO  [Log] Creating Logs backup and storing for further reference 

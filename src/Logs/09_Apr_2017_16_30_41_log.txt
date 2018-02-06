@@ -1,0 +1,55 @@
+2017-04-09 16:30:01,117 INFO  [Log] Test Scenario Configuration started 
+2017-04-09 16:30:01,140 INFO  [Log] Initialing HTML reporting 
+2017-04-09 16:30:01,946 INFO  [Log] Starting Test Suit Execution 
+2017-04-09 16:30:01,946 INFO  [Log] Creating Test suit report 
+2017-04-09 16:30:02,760 WARN  [Log] Browser instance value is null 
+2017-04-09 16:30:03,556 INFO  [Log] Object repository is created successfully 
+2017-04-09 16:30:03,750 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-09 16:30:04,068 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-09 16:30:04,344 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-09 16:30:04,603 INFO  [Log] RateGain-4_RateGain -4 
+2017-04-09 16:30:04,867 INFO  [Log] **************************************************************************************** 
+2017-04-09 16:30:04,867 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-5; Description: RateGain -5 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-09 16:30:04,867 INFO  [Log] **************************************************************************************** 
+2017-04-09 16:30:15,975 INFO  [Log] #### Executing Test case: RateGain-5; Description: RateGain -5 In Chrome Browser for TestData:1 
+2017-04-09 16:30:18,032 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-09 16:30:23,060 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-09 16:30:23,593 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-09 16:30:24,594 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-09 16:30:24,961 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-09 16:30:26,962 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-09 16:30:27,264 ERROR [Log] Error#: RateGain-1RG-09XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-09 16:30:27,560 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-09 16:30:32,561 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-09 16:30:33,314 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-09 16:30:34,441 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-09 16:30:34,578 ERROR [Log] Error#: RateGain-1RG-09Xpath; Browser not available: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir7320_26431}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e59ef3fce9281b49594f452af3b6886 
+2017-04-09 16:30:36,026 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-09 16:30:36,026 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:36,026 FATAL [Log] RateGain-1RG-09XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-09 16:30:36,060 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:36,293 INFO  [Log] ####Closing Test Suite #### 
+2017-04-09 16:30:36,293 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:36,329 INFO  [Log] Creating Logs backup and storing for further reference 
+2017-04-09 16:30:40,776 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir7320_26431}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e59ef3fce9281b49594f452af3b6886 
+2017-04-09 16:30:40,776 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:40,776 FATAL [Log] RateGain-1RG-09Xpath; Browser not available: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir7320_26431}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4e59ef3fce9281b49594f452af3b6886 
+2017-04-09 16:30:40,809 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:41,002 INFO  [Log] ####Closing Test Suite #### 
+2017-04-09 16:30:41,002 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 16:30:41,002 INFO  [Log] Creating Logs backup and storing for further reference 

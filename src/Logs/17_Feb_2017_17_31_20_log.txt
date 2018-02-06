@@ -1,0 +1,26 @@
+2017-02-17 17:30:37,915 INFO  [Log] Test Scenario Configuration started 
+2017-02-17 17:30:37,965 INFO  [Log] Initialing HTML reporting 
+2017-02-17 17:30:39,288 INFO  [Log] Starting Test Suit Execution 
+2017-02-17 17:30:39,288 INFO  [Log] Creating Test suit report 
+2017-02-17 17:30:40,763 WARN  [Log] Browser instance value is null 
+2017-02-17 17:30:42,112 INFO  [Log] Object repository is created successfully 
+2017-02-17 17:30:42,558 INFO  [Log] 1_6_NewProjects_Test Case MB-312_1_6_NewProjects_Test Case MB-312 
+2017-02-17 17:30:42,807 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:30:42,807 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: ProjectDetails_Test Case MB-1880; Description: ProjectDetails_Test Case MB-1880 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-17 17:30:42,807 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:30:51,900 INFO  [Log] #### Executing Test case: ProjectDetails_Test Case MB-1880; Description: ProjectDetails_Test Case MB-1880 In Chrome Browser for TestData:1 
+2017-02-17 17:30:59,948 INFO  [Log] MB1880_01: Open URL; Action: open URL 
+2017-02-17 17:31:01,998 INFO  [Log] MB1880_02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:31:09,675 INFO  [Log] MB1880_03: Click to skip: Action click 
+2017-02-17 17:31:10,050 INFO  [Log] MB1880_04: Enter city as Noida; Action: Submited Value 
+2017-02-17 17:31:11,079 INFO  [Log] MB1880_05; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:31:12,427 ERROR [Log] Error#: MagicBricksMB1880_06XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:31:18,659 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-17 17:31:19,116 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-17 17:31:19,596 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-17 17:31:19,596 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:31:19,596 FATAL [Log] MagicBricksMB1880_06XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:31:19,677 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:31:20,129 INFO  [Log] ####Closing Test Suite #### 
+2017-02-17 17:31:20,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:31:20,129 INFO  [Log] Creating Logs backup and storing for further reference 

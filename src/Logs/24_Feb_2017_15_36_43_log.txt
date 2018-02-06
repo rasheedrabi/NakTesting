@@ -1,0 +1,33 @@
+2017-02-24 15:34:43,723 INFO  [Log] Test Scenario Configuration started 
+2017-02-24 15:34:43,771 INFO  [Log] Initialing HTML reporting 
+2017-02-24 15:34:45,517 INFO  [Log] Starting Test Suit Execution 
+2017-02-24 15:34:45,517 INFO  [Log] Creating Test suit report 
+2017-02-24 15:34:46,933 WARN  [Log] Browser instance value is null 
+2017-02-24 15:34:47,945 INFO  [Log] Object repository is created successfully 
+2017-02-24 15:34:48,284 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-24 15:34:48,789 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-24 15:34:49,094 INFO  [Log] RateGain-3_RateGain -3 
+2017-02-24 15:34:49,337 INFO  [Log] RateGain-4_RateGain -4 
+2017-02-24 15:34:49,529 INFO  [Log] **************************************************************************************** 
+2017-02-24 15:34:49,529 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-5; Description: RateGain -5 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-24 15:34:49,530 INFO  [Log] **************************************************************************************** 
+2017-02-24 15:34:59,879 INFO  [Log] #### Executing Test case: RateGain-5; Description: RateGain -5 In Chrome Browser for TestData:1 
+2017-02-24 15:35:32,035 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-24 15:35:34,351 INFO  [Log] RG-02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-24 15:35:39,959 INFO  [Log] RG-03: Click on Exams: Action click 
+2017-02-24 15:35:40,963 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-24 15:36:07,995 INFO  [Log] RG-05: Select Exams: Action click 
+2017-02-24 15:36:10,000 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-24 15:36:30,764 INFO  [Log] Failed: RG-07: Verify Text; Value: ap european history new; is Not Present in Page values: AP European History,  
+2017-02-24 15:36:32,020 INFO  [Log] Failed: RG-09: Verify Text; Value: coop/hspt new; is Not Present in Page values: COOP/HSPT,  
+2017-02-24 15:36:34,650 INFO  [Log] RG-12; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-24 15:36:37,234 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-24 15:36:37,267 INFO  [Log] ### Test case: RateGain-5; Description: RateGain -5; status Executed 
+2017-02-24 15:36:41,925 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-24 15:36:42,769 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-24 15:36:43,405 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-24 15:36:43,405 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-24 15:36:43,405 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-24 15:36:43,626 INFO  [Log] ####Closing Test Suite #### 
+2017-02-24 15:36:43,626 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-24 15:36:43,626 INFO  [Log] Creating Logs backup and storing for further reference 

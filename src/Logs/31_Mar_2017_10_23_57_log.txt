@@ -1,0 +1,26 @@
+2017-03-31 10:23:47,267 INFO  [Log] Test Scenario Configuration started 
+2017-03-31 10:23:47,279 INFO  [Log] Initialing HTML reporting 
+2017-03-31 10:23:48,184 INFO  [Log] Starting Test Suit Execution 
+2017-03-31 10:23:48,184 INFO  [Log] Creating Test suit report 
+2017-03-31 10:23:49,400 WARN  [Log] Browser instance value is null 
+2017-03-31 10:23:50,253 INFO  [Log] Object repository is created successfully 
+2017-03-31 10:23:50,445 INFO  [Log] RateGain-1_RateGain -1 
+2017-03-31 10:23:50,661 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-31 10:23:50,857 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-31 10:23:51,120 INFO  [Log] **************************************************************************************** 
+2017-03-31 10:23:51,120 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-31 10:23:51,120 INFO  [Log] **************************************************************************************** 
+2017-03-31 10:23:56,752 ERROR [Log] Error#: RateGain-4; Error in communicating with Browserorg.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'P-Lokesh-LP', ip: '192.168.2.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: ChromeDriver 
+2017-03-31 10:23:56,816 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-03-31 10:23:56,841 ERROR [Log] Error#: RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-03-31 10:23:57,494 WARN  [Log] Browser instance value is null 
+2017-03-31 10:23:57,494 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-31 10:23:57,494 FATAL [Log] RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-03-31 10:23:57,535 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-31 10:23:57,729 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-31 10:23:57,899 INFO  [Log] ####Closing Test Suite #### 
+2017-03-31 10:23:57,899 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-31 10:23:57,899 INFO  [Log] Creating Logs backup and storing for further reference 

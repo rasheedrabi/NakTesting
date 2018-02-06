@@ -1,0 +1,12 @@
+2017-02-20 16:51:58,363 INFO  [Log] Test Scenario Configuration started 
+2017-02-20 16:51:58,423 INFO  [Log] Initialing HTML reporting 
+2017-02-20 16:51:59,983 INFO  [Log] Starting Test Suit Execution 
+2017-02-20 16:51:59,983 INFO  [Log] Creating Test suit report 
+2017-02-20 16:52:02,292 WARN  [Log] Browser instance value is null 
+2017-02-20 16:52:02,302 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\ObjRep.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\ObjRep.xlsx (The system cannot find the file specified) 
+2017-02-20 16:52:02,302 INFO  [Log] Object repository is created successfully 
+2017-02-20 16:52:03,385 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\RateGain -1.xlsx 
+2017-02-20 16:52:04,477 INFO  [Log] ProjectDetails_Test Case MB-1880_ProjectDetails_Test Case MB-1880 
+2017-02-20 16:52:04,895 INFO  [Log] ####Closing Test Suite #### 
+2017-02-20 16:52:04,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:52:04,895 INFO  [Log] Creating Logs backup and storing for further reference 

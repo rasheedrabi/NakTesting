@@ -1,0 +1,26 @@
+2017-02-21 21:47:46,220 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 21:47:46,250 INFO  [Log] Initialing HTML reporting 
+2017-02-21 21:47:47,171 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 21:47:47,172 INFO  [Log] Creating Test suit report 
+2017-02-21 21:47:48,512 WARN  [Log] Browser instance value is null 
+2017-02-21 21:47:49,650 INFO  [Log] Object repository is created successfully 
+2017-02-21 21:47:49,890 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:47:49,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 21:47:49,890 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:48:00,106 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-21 21:48:12,401 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 21:48:14,585 INFO  [Log] RG-02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:48:24,311 INFO  [Log] RG-03: Click on Exams: Action click 
+2017-02-21 21:48:25,317 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:49:21,666 ERROR [Log] Error#: RateGain-1RG-05XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 21:49:29,472 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 21:49:30,449 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 21:49:31,254 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 21:49:31,255 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:49:31,255 FATAL [Log] RateGain-1RG-05XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 21:49:31,665 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:49:32,508 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 21:49:33,126 INFO  [Log] RateGain-3_RateGain-3 
+2017-02-21 21:49:33,961 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 21:49:33,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:49:33,962 INFO  [Log] Creating Logs backup and storing for further reference 

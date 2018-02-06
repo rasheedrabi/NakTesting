@@ -1,0 +1,16 @@
+[debug (3/23/15 11:34:49 AM)] Debug: setLogFile: C:\Users\kunalp\Downloads\SikuliX\SikuliX-1.1.0-SetupLog.txt
+[debug (3/23/15 11:34:49 AM)] RunSetup: ... starting with no args given
+[debug (3/23/15 11:34:49 AM)] RunSetup: Setup in: C:\Users\kunalp\Downloads\SikuliX
+using: C:\Users\kunalp\Downloads\SikuliX\sikulixsetup-1.1.0.jar
+[debug (3/23/15 11:34:49 AM)] RunSetup: SikuliX Setup Build: 1.1.0 2015-01-06_11:47nightly
+[debug (3/23/15 11:34:49 AM)] RunSetup: 
+popAsk: --------------------
+You have SikuliX 1.1.0
+Click YES if you want to run setup again
+This will download fresh versions of the selected stuff.
+Your current stuff will be saved to folder BackUp.
+If you cancel the setup later or it is not successful
+the saved stuff will be restored from folder BackUp
+--------------------
+[debug (3/23/15 11:34:53 AM)] RunSetup: Do not run setup again
+[debug (3/23/15 11:34:53 AM)] RunSetup: User requested termination.

@@ -1,0 +1,26 @@
+2017-02-17 17:28:09,713 INFO  [Log] Test Scenario Configuration started 
+2017-02-17 17:28:09,754 INFO  [Log] Initialing HTML reporting 
+2017-02-17 17:28:11,056 INFO  [Log] Starting Test Suit Execution 
+2017-02-17 17:28:11,056 INFO  [Log] Creating Test suit report 
+2017-02-17 17:28:12,479 WARN  [Log] Browser instance value is null 
+2017-02-17 17:28:13,894 INFO  [Log] Object repository is created successfully 
+2017-02-17 17:28:14,120 INFO  [Log] 1_6_NewProjects_Test Case MB-312_1_6_NewProjects_Test Case MB-312 
+2017-02-17 17:28:14,473 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:28:14,473 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: ProjectDetails_Test Case MB-1880; Description: ProjectDetails_Test Case MB-1880 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-17 17:28:14,473 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:28:23,334 INFO  [Log] #### Executing Test case: ProjectDetails_Test Case MB-1880; Description: ProjectDetails_Test Case MB-1880 In Chrome Browser for TestData:1 
+2017-02-17 17:28:33,724 INFO  [Log] MB1880_01: Open URL; Action: open URL 
+2017-02-17 17:28:35,774 INFO  [Log] MB1880_02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:29:47,684 INFO  [Log] MB1880_03: Click to skip: Action click 
+2017-02-17 17:29:48,130 INFO  [Log] MB1880_04: Enter city as Noida; Action: Submited Value 
+2017-02-17 17:29:49,131 INFO  [Log] MB1880_05; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:29:49,982 ERROR [Log] Error#: MagicBricksMB1880_06ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:29:55,726 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-17 17:29:56,193 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-17 17:29:56,689 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-17 17:29:56,689 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:29:56,689 FATAL [Log] MagicBricksMB1880_06ObjectRepClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:29:56,902 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:29:57,406 INFO  [Log] ####Closing Test Suite #### 
+2017-02-17 17:29:57,407 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:29:57,407 INFO  [Log] Creating Logs backup and storing for further reference 

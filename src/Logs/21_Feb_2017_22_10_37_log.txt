@@ -1,0 +1,31 @@
+2017-02-21 22:08:51,408 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 22:08:51,441 INFO  [Log] Initialing HTML reporting 
+2017-02-21 22:08:52,672 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 22:08:52,672 INFO  [Log] Creating Test suit report 
+2017-02-21 22:08:54,124 WARN  [Log] Browser instance value is null 
+2017-02-21 22:08:55,263 INFO  [Log] Object repository is created successfully 
+2017-02-21 22:08:55,466 INFO  [Log] **************************************************************************************** 
+2017-02-21 22:08:55,467 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 22:08:55,467 INFO  [Log] **************************************************************************************** 
+2017-02-21 22:09:04,165 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-21 22:09:21,566 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 22:09:23,606 INFO  [Log] RG-02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 22:09:30,922 INFO  [Log] RG-03: Click on Exams: Action click 
+2017-02-21 22:09:31,926 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 22:09:59,023 INFO  [Log] RG-05: Select Exams: Action click 
+2017-02-21 22:10:01,029 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 22:10:22,222 INFO  [Log] Failed: RG-07: Verify Text; Value: ap european history new; is Not Present in Page values: AP European History,  
+2017-02-21 22:10:24,081 INFO  [Log] Failed: RG-09: Verify Text; Value: coop/hspt new; is Not Present in Page values: COOP/HSPT,  
+2017-02-21 22:10:26,718 INFO  [Log] RG-12; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 22:10:29,006 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-21 22:10:29,129 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-02-21 22:10:34,906 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 22:10:35,379 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 22:10:36,111 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 22:10:36,117 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 22:10:36,117 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 22:10:36,481 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 22:10:36,972 INFO  [Log] RateGain-3_RateGain-3 
+2017-02-21 22:10:37,449 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 22:10:37,450 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 22:10:37,450 INFO  [Log] Creating Logs backup and storing for further reference 

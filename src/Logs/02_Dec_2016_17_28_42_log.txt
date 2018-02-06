@@ -1,0 +1,64 @@
+2016-12-02 17:27:47,873 INFO  [Log] Test Scenario Configuration started 
+2016-12-02 17:27:47,903 INFO  [Log] Initialing HTML reporting 
+2016-12-02 17:27:49,190 INFO  [Log] Starting Test Suit Execution 
+2016-12-02 17:27:49,191 INFO  [Log] Creating Test suit report 
+2016-12-02 17:27:50,750 WARN  [Log] Browser instance value is null 
+2016-12-02 17:27:51,908 INFO  [Log] Object repository is created successfully 
+2016-12-02 17:27:52,113 INFO  [Log] **************************************************************************************** 
+2016-12-02 17:27:52,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-02 17:27:52,113 INFO  [Log] **************************************************************************************** 
+2016-12-02 17:28:41,210 ERROR [Log] Error#: PropertyDetails_Test Case MB-1695; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ Security Web Control","description":null,"creator":"McAfee Inc.","homepageURL":"http://www.siteadvisor.com/"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\McAfee\\Endpoint Security\\Web Control\\wcffplg.xpi","installDate":1466374750000,"updateDate":1466374750000,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":349164,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"15.0","maxVersion":"50.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true}
+1480679874838	DeferredSave.extensions.json	DEBUG	Save changes
+1480679874839	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1480679874839	addons.xpi-utils	DEBUG	Updating add-on states
+1480679874841	addons.xpi-utils	DEBUG	Writing add-ons list
+1480679874846	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1480679874848	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1480679874850	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1480679874850	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1480679874851	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1480679874852	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1480679874853	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1480679874854	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1480679874856	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1480679874857	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1480679874857	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1480679874857	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1480679874858	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1480679874858	addons.manager	DEBUG	Starting provider: GMPProvider
+1480679874869	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1480679874869	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1480679874869	addons.manager	DEBUG	Starting provider: PluginProvider
+1480679874869	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1480679874870	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1480679874870	addons.manager	DEBUG	Completed startup sequence
+1480679875581	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1480679875581	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1480679875583	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1480679876152	DeferredSave.extensions.json	DEBUG	Write succeeded
+1480679876152	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1480679876153	DeferredSave.extensions.json	DEBUG	Starting timer
+1480679876179	DeferredSave.extensions.json	DEBUG	Starting write
+1480679876199	addons.repository	DEBUG	No addons.json found.
+1480679876201	DeferredSave.addons.json	DEBUG	Save changes
+1480679876211	DeferredSave.addons.json	DEBUG	Starting timer
+1480679876320	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1480679876320	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1480679876321	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1480679876330	DeferredSave.addons.json	DEBUG	Starting write
+1480679876351	DeferredSave.extensions.json	DEBUG	Write succeeded
+1480679876436	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.241', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2016-12-02 17:28:41,341 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Firefox Browser for TestData:1 
+2016-12-02 17:28:41,401 ERROR [Log] Error#: MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-02 17:28:42,200 WARN  [Log] Browser instance value is null 
+2016-12-02 17:28:42,200 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 17:28:42,200 FATAL [Log] MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-02 17:28:42,292 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 17:28:42,676 INFO  [Log] ####Closing Test Suite #### 
+2016-12-02 17:28:42,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 17:28:42,676 INFO  [Log] Creating Logs backup and storing for further reference 

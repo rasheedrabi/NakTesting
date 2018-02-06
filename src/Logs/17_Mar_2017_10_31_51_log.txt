@@ -1,0 +1,33 @@
+2017-03-17 10:30:40,837 INFO  [Log] Test Scenario Configuration started 
+2017-03-17 10:30:40,868 INFO  [Log] Initialing HTML reporting 
+2017-03-17 10:30:41,958 INFO  [Log] Starting Test Suit Execution 
+2017-03-17 10:30:41,958 INFO  [Log] Creating Test suit report 
+2017-03-17 10:30:44,144 WARN  [Log] Browser instance value is null 
+2017-03-17 10:30:45,475 INFO  [Log] Object repository is created successfully 
+2017-03-17 10:30:45,765 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:30:45,765 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: Sample-1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:30:45,766 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:30:58,422 INFO  [Log] #### Executing Test case: RateGain-1; Description: Sample-1 In Chrome Browser for TestData:1 
+2017-03-17 10:31:01,978 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-03-17 10:31:12,004 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-17 10:31:12,315 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-03-17 10:31:13,191 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-03-17 10:31:13,392 INFO  [Log] RG-05: Click on Login: Action click 
+2017-03-17 10:31:23,392 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-17 10:31:23,630 INFO  [Log] RG-07: EnterPriceClick: Action click 
+2017-03-17 10:31:33,631 INFO  [Log] RG-08; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-17 10:31:44,621 INFO  [Log] RG-10; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-17 10:31:44,730 ERROR [Log] Error#: RateGain-1RG-11XpathGetText  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-03-17 10:31:49,131 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-03-17 10:31:49,527 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-03-17 10:31:49,993 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-03-17 10:31:49,993 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:31:49,993 FATAL [Log] RateGain-1RG-11XpathGetText  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-03-17 10:31:50,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:31:50,535 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-17 10:31:50,978 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-17 10:31:51,383 INFO  [Log] RateGain-4_RateGain -4 
+2017-03-17 10:31:51,683 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-17 10:31:51,958 INFO  [Log] ####Closing Test Suite #### 
+2017-03-17 10:31:51,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:31:51,958 INFO  [Log] Creating Logs backup and storing for further reference 

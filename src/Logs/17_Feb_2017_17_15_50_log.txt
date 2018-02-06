@@ -1,0 +1,22 @@
+2017-02-17 17:14:25,755 INFO  [Log] Test Scenario Configuration started 
+2017-02-17 17:14:25,795 INFO  [Log] Initialing HTML reporting 
+2017-02-17 17:14:27,164 INFO  [Log] Starting Test Suit Execution 
+2017-02-17 17:14:27,164 INFO  [Log] Creating Test suit report 
+2017-02-17 17:14:28,545 WARN  [Log] Browser instance value is null 
+2017-02-17 17:14:29,710 INFO  [Log] Object repository is created successfully 
+2017-02-17 17:14:29,883 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:14:29,883 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: ProjectDetails_Test Case MB-1880.xlsx; Description: ProjectDetails_Test Case MB-1880.xlsx For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-17 17:14:29,883 INFO  [Log] **************************************************************************************** 
+2017-02-17 17:14:40,041 INFO  [Log] #### Executing Test case: ProjectDetails_Test Case MB-1880.xlsx; Description: ProjectDetails_Test Case MB-1880.xlsx In Chrome Browser for TestData:1 
+2017-02-17 17:14:45,075 INFO  [Log] MB1880_01: Open URL; Action: open URL 
+2017-02-17 17:14:50,108 INFO  [Log] MB1880_02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-17 17:15:40,623 ERROR [Log] Error#: MagicBricksMB1880_03XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:15:48,746 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-17 17:15:49,508 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-17 17:15:49,947 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-17 17:15:49,947 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:15:49,947 FATAL [Log] MagicBricksMB1880_03XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-17 17:15:50,048 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:15:50,417 INFO  [Log] ####Closing Test Suite #### 
+2017-02-17 17:15:50,417 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:15:50,417 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,74 @@
+2016-12-01 19:25:12,512 INFO  [Log] Test Scenario Configuration started 
+2016-12-01 19:25:12,544 INFO  [Log] Initialing HTML reporting 
+2016-12-01 19:25:14,530 INFO  [Log] Starting Test Suit Execution 
+2016-12-01 19:25:14,530 WARN  [Log] Browser instance value is null 
+2016-12-01 19:25:14,544 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\ObjRep.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\ObjRep.xlsx (The system cannot find the file specified) 
+2016-12-01 19:25:14,556 INFO  [Log] Object repository is created successfully 
+2016-12-01 19:25:17,115 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:17,115 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\TC-FNP-PP-Edit-002.xlsx 
+2016-12-01 19:25:17,495 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-005.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-005.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:17,496 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:17,497 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-005.xlsx 
+2016-12-01 19:25:17,772 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-006.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-006.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:17,773 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:17,774 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-006.xlsx 
+2016-12-01 19:25:18,165 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-008.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-008.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:18,168 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:18,169 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-008.xlsx 
+2016-12-01 19:25:18,318 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-009.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-009.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:18,325 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:18,325 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-009.xlsx 
+2016-12-01 19:25:18,534 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-010.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-010.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:18,535 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:18,537 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-010.xlsx 
+2016-12-01 19:25:18,735 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-012.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-012.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:18,738 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:18,738 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-012.xlsx 
+2016-12-01 19:25:18,872 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-013.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-013.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:18,873 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:18,873 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-013.xlsx 
+2016-12-01 19:25:19,008 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-014.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-014.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:19,008 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:19,008 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-014.xlsx 
+2016-12-01 19:25:19,123 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-015.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-015.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:19,124 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:19,124 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-015.xlsx 
+2016-12-01 19:25:19,528 INFO  [Log] Magic_Bricks _11_TC-FNP-PS-003 
+2016-12-01 19:25:19,639 INFO  [Log] Magic_Bricks _12_TC-FNP-PS-005 
+2016-12-01 19:25:19,818 INFO  [Log] Magic_Bricks _13_TC-FNP-PS-006 
+2016-12-01 19:25:19,895 INFO  [Log] Magic_Bricks _14_TC-FNP-PS-008 
+2016-12-01 19:25:20,032 INFO  [Log] Magic_Bricks _15_TC-FNP-PS-009 
+2016-12-01 19:25:20,153 INFO  [Log] Magic_Bricks _16_TC-FNP-PS-010 
+2016-12-01 19:25:20,218 INFO  [Log] Magic_Bricks _17_TC-FNP-PS-012 
+2016-12-01 19:25:20,324 INFO  [Log] Magic_Bricks _18_TC-FNP-PS-013 
+2016-12-01 19:25:20,404 INFO  [Log] Magic_Bricks _19_TC-FNP-PS-014 
+2016-12-01 19:25:20,476 INFO  [Log] Magic_Bricks _20_TC-FNP-PS-015 
+2016-12-01 19:25:20,541 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-003.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-003.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:20,551 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:20,551 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-003.xlsx 
+2016-12-01 19:25:20,789 INFO  [Log] Magic_Bricks _22_TC-FNP-PS-005 
+2016-12-01 19:25:20,826 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-006.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-006.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:20,827 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:20,827 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-006.xlsx 
+2016-12-01 19:25:20,908 INFO  [Log] Magic_Bricks _24_TC-FNP-PS-008 
+2016-12-01 19:25:20,974 INFO  [Log] Magic_Bricks _25_TC-FNP-PS-009 
+2016-12-01 19:25:21,029 INFO  [Log] Magic_Bricks _26_TC-FNP-PS-010 
+2016-12-01 19:25:21,077 INFO  [Log] Magic_Bricks _27_TC-FNP-PS-012 
+2016-12-01 19:25:21,124 INFO  [Log] Magic_Bricks _28_TC-FNP-PS-013 
+2016-12-01 19:25:21,151 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-014.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PS-014.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:21,151 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:21,151 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PS-014.xlsx 
+2016-12-01 19:25:21,214 INFO  [Log] Magic_Bricks _30_TC-FNP-PS-015 
+2016-12-01 19:25:21,264 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PP-Edit-002.xlsx: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\Framework\src\DataEngine\TC-FNP-PP-Edit-002.xlsx (The filename, directory name, or volume label syntax is incorrect) 
+2016-12-01 19:25:21,264 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2016-12-01 19:25:21,265 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\D:\\Framework\\src\\DataEngine\\TC-FNP-PP-Edit-002.xlsx 
+2016-12-01 19:25:21,323 INFO  [Log] Magic_Bricks _32_TC-FNP-PP-Edit-003 
+2016-12-01 19:25:21,387 INFO  [Log] Magic_Bricks _33_TC-FNP-PP-Edit-004 
+2016-12-01 19:25:21,431 INFO  [Log] Magic_Bricks _34_TC-FNP-PP-Edit-005 
+2016-12-01 19:25:21,485 INFO  [Log] Magic_Bricks _35_TC-FNP-PP-Edit-007 
+2016-12-01 19:25:21,533 INFO  [Log] Magic_Bricks _36_TC-FNP-PP-Edit-008 
+2016-12-01 19:25:21,577 INFO  [Log] Magic_Bricks _37_TC-FNP-PP-Edit-009 
+2016-12-01 19:25:21,623 INFO  [Log] Magic_Bricks _38_TC-FNP-PP-Edit-012 
+2016-12-01 19:25:21,695 INFO  [Log] Magic_Bricks _39_TC-FNP-PP-Edit-019 
+2016-12-01 19:25:21,745 INFO  [Log] Magic_Bricks _40_TC-FNP-PS-015 
+2016-12-01 19:25:21,765 INFO  [Log] Creating Logs backup and storing for further reference 

@@ -1,0 +1,23 @@
+2017-04-09 17:15:51,136 INFO  [Log] Test Scenario Configuration started 
+2017-04-09 17:15:51,169 INFO  [Log] Initialing HTML reporting 
+2017-04-09 17:15:51,954 INFO  [Log] Starting Test Suit Execution 
+2017-04-09 17:15:51,954 INFO  [Log] Creating Test suit report 
+2017-04-09 17:15:52,765 WARN  [Log] Browser instance value is null 
+2017-04-09 17:15:53,718 INFO  [Log] Object repository is created successfully 
+2017-04-09 17:15:53,905 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-09 17:15:54,312 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-09 17:15:54,515 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-09 17:15:54,749 INFO  [Log] RateGain-4_RateGain -4 
+2017-04-09 17:15:55,092 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-09 17:15:55,326 INFO  [Log] **************************************************************************************** 
+2017-04-09 17:15:55,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-6; Description: RateGain -6 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-09 17:15:55,326 INFO  [Log] **************************************************************************************** 
+2017-04-09 17:15:55,747 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-09 17:15:56,840 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-09 17:15:57,866 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-09 17:15:57,866 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:15:57,866 FATAL [Log] RateGain-1RG-09XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-09 17:15:57,914 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:15:58,258 INFO  [Log] ####Closing Test Suite #### 
+2017-04-09 17:15:58,258 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:15:58,258 INFO  [Log] Creating Logs backup and storing for further reference 

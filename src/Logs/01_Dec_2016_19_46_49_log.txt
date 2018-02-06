@@ -1,0 +1,22 @@
+2016-12-01 19:46:30,047 INFO  [Log] Test Scenario Configuration started 
+2016-12-01 19:46:30,108 INFO  [Log] Initialing HTML reporting 
+2016-12-01 19:46:31,683 INFO  [Log] Starting Test Suit Execution 
+2016-12-01 19:46:31,684 INFO  [Log] Creating Test suit report 
+2016-12-01 19:46:33,362 WARN  [Log] Browser instance value is null 
+2016-12-01 19:46:34,589 INFO  [Log] Object repository is created successfully 
+2016-12-01 19:46:34,778 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:46:34,778 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-01 19:46:34,778 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:46:47,007 ERROR [Log] Error#: PropertyDetails_Test Case MB-1695; Error in communicating with Browserorg.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: ChromeDriver 
+2016-12-01 19:46:47,197 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Chrome Browser for TestData:1 
+2016-12-01 19:46:47,367 ERROR [Log] Error#: MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:46:48,690 WARN  [Log] Browser instance value is null 
+2016-12-01 19:46:48,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:46:48,690 FATAL [Log] MagicBricksMB1880_01ObjectRepOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2016-12-01 19:46:48,805 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:46:49,215 INFO  [Log] ####Closing Test Suite #### 
+2016-12-01 19:46:49,215 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:46:49,215 INFO  [Log] Creating Logs backup and storing for further reference 

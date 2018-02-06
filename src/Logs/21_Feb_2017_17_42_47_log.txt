@@ -1,0 +1,25 @@
+2017-02-21 17:41:50,882 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 17:41:50,903 INFO  [Log] Initialing HTML reporting 
+2017-02-21 17:41:52,295 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 17:41:52,295 INFO  [Log] Creating Test suit report 
+2017-02-21 17:41:54,868 WARN  [Log] Browser instance value is null 
+2017-02-21 17:41:56,388 INFO  [Log] Object repository is created successfully 
+2017-02-21 17:41:56,807 INFO  [Log] RateGain-1_RateGain -1 
+2017-02-21 17:41:57,333 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 17:41:57,651 INFO  [Log] **************************************************************************************** 
+2017-02-21 17:41:57,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-3; Description: RateGain-3 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 17:41:57,652 INFO  [Log] **************************************************************************************** 
+2017-02-21 17:42:46,410 ERROR [Log] Error#: RateGain-3; Error in communicating with Browserorg.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.218', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2017-02-21 17:42:46,489 INFO  [Log] #### Executing Test case: RateGain-3; Description: RateGain-3 In Firefox Browser for TestData:1 
+2017-02-21 17:42:46,548 ERROR [Log] Error#: RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-02-21 17:42:47,293 WARN  [Log] Browser instance value is null 
+2017-02-21 17:42:47,293 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:42:47,294 FATAL [Log] RateGain-1RG-01URLOpenURL  java.lang.NullPointerExceptionnull:Exception is not handled 
+2017-02-21 17:42:47,389 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:42:47,774 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 17:42:47,774 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 17:42:47,774 INFO  [Log] Creating Logs backup and storing for further reference 

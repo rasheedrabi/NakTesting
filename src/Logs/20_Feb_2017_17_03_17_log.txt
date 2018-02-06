@@ -1,0 +1,33 @@
+2017-02-20 17:02:03,640 INFO  [Log] Test Scenario Configuration started 
+2017-02-20 17:02:03,689 INFO  [Log] Initialing HTML reporting 
+2017-02-20 17:02:04,967 INFO  [Log] Starting Test Suit Execution 
+2017-02-20 17:02:04,967 INFO  [Log] Creating Test suit report 
+2017-02-20 17:02:06,310 WARN  [Log] Browser instance value is null 
+2017-02-20 17:02:07,477 INFO  [Log] Object repository is created successfully 
+2017-02-20 17:02:07,809 INFO  [Log] **************************************************************************************** 
+2017-02-20 17:02:07,809 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 17:02:07,809 INFO  [Log] **************************************************************************************** 
+2017-02-20 17:02:16,240 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-20 17:02:20,720 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-20 17:02:30,793 INFO  [Log] RG-02; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 17:02:31,581 INFO  [Log] RG-03: Enter User ID: Action Submit If 
+2017-02-20 17:02:31,951 INFO  [Log] RG-04: Enter Password: Action Submit If 
+2017-02-20 17:02:37,403 INFO  [Log] RG-05: Click on Login: Action click 
+2017-02-20 17:02:47,428 INFO  [Log] RG-06; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 17:02:47,789 INFO  [Log] RG-07; Passed; Verify Button; Value: enterprise view; Present in Page values: ENTERPRISE VIEW,  
+2017-02-20 17:02:47,999 INFO  [Log] RG-08; Passed; Verify Button; Value: property view; Present in Page values: PROPERTY VIEW,  
+2017-02-20 17:02:48,243 INFO  [Log] RG-09: Clickon left header: Action click 
+2017-02-20 17:02:58,273 INFO  [Log] RG-10; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 17:02:58,725 INFO  [Log] RG-11: Clickon Logout: Action click 
+2017-02-20 17:03:08,752 INFO  [Log] RG-12; Not Waited 10000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-20 17:03:09,426 INFO  [Log] Closing instance of Browser: Chrome 
+2017-02-20 17:03:09,719 INFO  [Log] ### Test case: RateGain-1; Description: RateGain -1; status Executed 
+2017-02-20 17:03:15,075 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-20 17:03:15,807 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-20 17:03:16,397 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-20 17:03:16,397 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 17:03:16,397 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 17:03:16,702 WARN  [Log] RunMode is not Defined for the test scirpt moving to next test scriptBlank 
+2017-02-20 17:03:17,393 INFO  [Log] ####Closing Test Suite #### 
+2017-02-20 17:03:17,393 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 17:03:17,393 INFO  [Log] Creating Logs backup and storing for further reference 

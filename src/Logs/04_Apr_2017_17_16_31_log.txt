@@ -1,0 +1,68 @@
+2017-04-04 17:14:57,251 INFO  [Log] Test Scenario Configuration started 
+2017-04-04 17:14:57,271 INFO  [Log] Initialing HTML reporting 
+2017-04-04 17:14:57,881 INFO  [Log] Starting Test Suit Execution 
+2017-04-04 17:14:57,881 INFO  [Log] Creating Test suit report 
+2017-04-04 17:14:58,542 WARN  [Log] Browser instance value is null 
+2017-04-04 17:14:59,202 INFO  [Log] Object repository is created successfully 
+2017-04-04 17:14:59,340 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-04 17:14:59,556 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-04 17:14:59,736 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-04 17:14:59,914 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:14:59,914 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-04 17:14:59,914 INFO  [Log] **************************************************************************************** 
+2017-04-04 17:15:09,113 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-04-04 17:15:10,962 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-04 17:15:16,016 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:16,267 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-04 17:15:17,267 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:17,474 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-04 17:15:19,492 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:22,580 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-04 17:15:27,609 INFO  [Log] RG-08; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:31,365 INFO  [Log] RG-09: ClickAdd: Action click 
+2017-04-04 17:15:36,389 INFO  [Log] RG-10; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:36,551 INFO  [Log] RG-11: SelectIT: Action click 
+2017-04-04 17:15:41,542 INFO  [Log] RG-12; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:41,727 INFO  [Log] RG-13: SelectTDS: Action click 
+2017-04-04 17:15:46,728 INFO  [Log] RG-14; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:46,978 INFO  [Log] RG-15: DropDownSelectIT; Action: Drop Down Select 
+2017-04-04 17:15:51,990 INFO  [Log] RG-16; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:52,118 INFO  [Log] RG-17: Clientcodekeys; Action Clear 
+2017-04-04 17:15:57,142 INFO  [Log] RG-18; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:15:57,286 INFO  [Log] RG-19: Clientcodekeys; Action: Submited Value 
+2017-04-04 17:16:02,290 INFO  [Log] RG-20; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:16:02,454 INFO  [Log] RG-21: LastName; Action: Submited Value 
+2017-04-04 17:16:07,473 INFO  [Log] RG-22; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:16:07,699 INFO  [Log] RG-23: ClkSave: Action click 
+2017-04-04 17:16:12,700 INFO  [Log] RG-24; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:16:13,866 INFO  [Log] RG-25: selctDashboard: Action click 
+2017-04-04 17:16:18,867 INFO  [Log] RG-26; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:16:19,060 INFO  [Log] RG-27: selctDashboard; Action: Mouse Hover and Clicked 
+2017-04-04 17:16:24,084 INFO  [Log] RG-28; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-04 17:16:24,285 ERROR [Log] Error#: RateGain-1RG-29XpathClick  org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'P-Lokesh-LP', ip: '192.168.2.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir10000_14574}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6f9eacae1542b4978c811003d9ef9385null:Exception is not handled 
+2017-04-04 17:16:29,253 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-04 17:16:30,064 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-04 17:16:30,964 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-04 17:16:30,964 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-04 17:16:30,964 FATAL [Log] RateGain-1RG-29XpathClick  org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'P-Lokesh-LP', ip: '192.168.2.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir10000_14574}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6f9eacae1542b4978c811003d9ef9385null:Exception is not handled 
+2017-04-04 17:16:31,000 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-04 17:16:31,207 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-04 17:16:31,383 INFO  [Log] ####Closing Test Suite #### 
+2017-04-04 17:16:31,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-04 17:16:31,383 INFO  [Log] Creating Logs backup and storing for further reference 

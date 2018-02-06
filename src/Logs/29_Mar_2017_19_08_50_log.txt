@@ -1,0 +1,26 @@
+2017-03-29 19:07:05,098 INFO  [Log] Test Scenario Configuration started 
+2017-03-29 19:07:05,113 INFO  [Log] Initialing HTML reporting 
+2017-03-29 19:07:06,024 INFO  [Log] Starting Test Suit Execution 
+2017-03-29 19:07:06,024 INFO  [Log] Creating Test suit report 
+2017-03-29 19:07:08,832 WARN  [Log] Browser instance value is null 
+2017-03-29 19:07:09,566 INFO  [Log] Object repository is created successfully 
+2017-03-29 19:07:09,769 INFO  [Log] RateGain-1_RateGain -1 
+2017-03-29 19:07:10,112 INFO  [Log] RateGain-2_RateGain -2 
+2017-03-29 19:07:10,363 INFO  [Log] RateGain-3_RateGain -3 
+2017-03-29 19:07:10,846 INFO  [Log] **************************************************************************************** 
+2017-03-29 19:07:10,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-4; Description: RateGain -4 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-29 19:07:10,846 INFO  [Log] **************************************************************************************** 
+2017-03-29 19:07:37,604 INFO  [Log] #### Executing Test case: RateGain-4; Description: RateGain -4 In Chrome Browser for TestData:1 
+2017-03-29 19:07:41,245 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-03-29 19:07:48,500 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-03-29 19:08:39,502 ERROR [Log] Error#: RateGain-1RG-03XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-03-29 19:08:49,078 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-03-29 19:08:49,359 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-03-29 19:08:49,640 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-03-29 19:08:49,640 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-29 19:08:49,640 FATAL [Log] RateGain-1RG-03XpathSubmitValue: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-03-29 19:08:49,671 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-29 19:08:49,859 INFO  [Log] RateGain-5_RateGain -5 
+2017-03-29 19:08:50,077 INFO  [Log] ####Closing Test Suite #### 
+2017-03-29 19:08:50,077 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-29 19:08:50,077 INFO  [Log] Creating Logs backup and storing for further reference 

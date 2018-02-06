@@ -1,0 +1,52 @@
+2017-04-17 15:08:03,755 INFO  [Log] Test Scenario Configuration started 
+2017-04-17 15:08:03,986 INFO  [Log] Initialing HTML reporting 
+2017-04-17 15:08:07,044 INFO  [Log] Starting Test Suit Execution 
+2017-04-17 15:08:07,044 INFO  [Log] Creating Test suit report 
+2017-04-17 15:08:09,111 WARN  [Log] Browser instance value is null 
+2017-04-17 15:08:10,136 INFO  [Log] Object repository is created successfully 
+2017-04-17 15:08:10,518 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-17 15:08:10,794 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-17 15:08:11,049 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-17 15:08:11,258 INFO  [Log] RateGain-4_RateGain -4 
+2017-04-17 15:08:11,526 INFO  [Log] **************************************************************************************** 
+2017-04-17 15:08:11,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-5; Description: RateGain -5 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-17 15:08:11,526 INFO  [Log] **************************************************************************************** 
+2017-04-17 15:08:30,391 INFO  [Log] #### Executing Test case: RateGain-5; Description: RateGain -5 In Chrome Browser for TestData:1 
+2017-04-17 15:08:32,739 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-04-17 15:08:37,773 INFO  [Log] RG-02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:38,402 INFO  [Log] RG-03: Username; Action: Submited Value 
+2017-04-17 15:08:39,426 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:39,657 INFO  [Log] RG-05: Password; Action: Submited Value 
+2017-04-17 15:08:41,684 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:42,793 INFO  [Log] RG-07: clkLogin: Action click 
+2017-04-17 15:08:43,805 INFO  [Log] RG-08; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:46,967 INFO  [Log] RG-09: clkLogin: Action click If 
+2017-04-17 15:08:47,969 INFO  [Log] RG-10; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:48,294 INFO  [Log] RG-11: Username: Action Submit If 
+2017-04-17 15:08:49,321 INFO  [Log] RG-12; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:08:49,520 INFO  [Log] RG-13: Password: Action Submit If 
+2017-04-17 15:08:55,540 INFO  [Log] RG-14; Not Waited 6000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:00,232 INFO  [Log] RG-15: clkLogin: Action click If 
+2017-04-17 15:09:03,253 INFO  [Log] RG-16; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:05,254 INFO  [Log] RG-17: ClickAdd: Action click 
+2017-04-17 15:09:08,274 INFO  [Log] RG-18; Not Waited 3000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:08,456 INFO  [Log] RG-19: SelectIT: Action click 
+2017-04-17 15:09:13,447 INFO  [Log] RG-20; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:13,698 INFO  [Log] RG-21: DropDownSelectIT; Action: Drop Down Select 
+2017-04-17 15:09:18,699 INFO  [Log] RG-22; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:19,071 INFO  [Log] RG-23: ClkGroup; Action: Submited Value 
+2017-04-17 15:09:24,072 INFO  [Log] RG-24; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:32,352 INFO  [Log] RG-25: ClkGroupCnfrm: Action Element is not present moving to next step 
+2017-04-17 15:09:37,352 INFO  [Log] RG-26; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2017-04-17 15:09:38,126 INFO  [Log] RG-27: SendDateFormat; Action: Submited Value 
+2017-04-17 15:09:38,126 ERROR [Log] Error#: RateGain-1RG-28BlankThreadWait  java.lang.NumberFormatException: For input string: "Blank"null:Exception is not handled 
+2017-04-17 15:09:44,029 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-17 15:09:45,020 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-17 15:09:46,009 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-17 15:09:46,009 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-17 15:09:46,009 FATAL [Log] RateGain-1RG-28BlankThreadWait  java.lang.NumberFormatException: For input string: "Blank"null:Exception is not handled 
+2017-04-17 15:09:46,034 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-17 15:09:46,279 INFO  [Log] RateGain-6_RateGain -6 
+2017-04-17 15:09:46,466 INFO  [Log] ####Closing Test Suite #### 
+2017-04-17 15:09:46,466 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-17 15:09:46,466 INFO  [Log] Creating Logs backup and storing for further reference 

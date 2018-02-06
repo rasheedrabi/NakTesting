@@ -1,0 +1,54 @@
+2017-04-09 17:11:10,497 INFO  [Log] Test Scenario Configuration started 
+2017-04-09 17:11:10,513 INFO  [Log] Initialing HTML reporting 
+2017-04-09 17:11:10,669 ERROR [Log] Error#: RateGain-1RG-09XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-09 17:11:11,154 INFO  [Log] Starting Test Suit Execution 
+2017-04-09 17:11:11,154 INFO  [Log] Creating Test suit report 
+2017-04-09 17:11:11,810 WARN  [Log] Browser instance value is null 
+2017-04-09 17:11:12,466 INFO  [Log] Object repository is created successfully 
+2017-04-09 17:11:12,631 INFO  [Log] RateGain-1_RateGain -1 
+2017-04-09 17:11:12,833 INFO  [Log] RateGain-2_RateGain -2 
+2017-04-09 17:11:13,020 INFO  [Log] RateGain-3_RateGain -3 
+2017-04-09 17:11:13,223 INFO  [Log] RateGain-4_RateGain -4 
+2017-04-09 17:11:13,363 INFO  [Log] RateGain-5_RateGain -5 
+2017-04-09 17:11:13,519 INFO  [Log] **************************************************************************************** 
+2017-04-09 17:11:13,519 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-6; Description: RateGain -6 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-09 17:11:13,519 INFO  [Log] **************************************************************************************** 
+2017-04-09 17:11:20,735 ERROR [Log] Error#: RateGain-6; Error in communicating with Browserorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir2264_16617}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a102318969ac3af3b7fc30e3513ff378 
+2017-04-09 17:11:20,806 INFO  [Log] #### Executing Test case: RateGain-6; Description: RateGain -6 In Chrome Browser for TestData:1 
+2017-04-09 17:11:22,503 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-04-09 17:11:22,909 ERROR [Log] Error#: RateGain-1RG-01URL; Browser not available: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir2264_16617}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a102318969ac3af3b7fc30e3513ff378 
+2017-04-09 17:11:23,285 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-04-09 17:11:24,033 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-04-09 17:11:24,033 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:24,033 FATAL [Log] RateGain-1RG-09XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-04-09 17:11:24,091 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:24,247 INFO  [Log] ####Closing Test Suite #### 
+2017-04-09 17:11:24,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:24,247 INFO  [Log] Creating Logs backup and storing for further reference 
+2017-04-09 17:11:28,856 FATAL [Log] Error in quiting all the browser instanceorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir2264_16617}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a102318969ac3af3b7fc30e3513ff378 
+2017-04-09 17:11:28,856 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:28,856 FATAL [Log] RateGain-1RG-01URL; Browser not available: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'P-Lokesh-LP', ip: '192.168.1.16', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\PD1BF~1.LOK\AppData\Local\Temp\scoped_dir2264_16617}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a102318969ac3af3b7fc30e3513ff378 
+2017-04-09 17:11:28,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:29,079 INFO  [Log] ####Closing Test Suite #### 
+2017-04-09 17:11:29,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-09 17:11:29,079 INFO  [Log] Creating Logs backup and storing for further reference 

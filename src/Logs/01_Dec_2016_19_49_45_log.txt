@@ -1,0 +1,49 @@
+2016-12-01 19:48:50,319 INFO  [Log] Test Scenario Configuration started 
+2016-12-01 19:48:50,357 INFO  [Log] Initialing HTML reporting 
+2016-12-01 19:48:51,561 INFO  [Log] Starting Test Suit Execution 
+2016-12-01 19:48:51,561 INFO  [Log] Creating Test suit report 
+2016-12-01 19:48:52,941 WARN  [Log] Browser instance value is null 
+2016-12-01 19:48:53,948 INFO  [Log] Object repository is created successfully 
+2016-12-01 19:48:54,130 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:48:54,130 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-01 19:48:54,130 INFO  [Log] **************************************************************************************** 
+2016-12-01 19:49:02,214 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Chrome Browser for TestData:1 
+2016-12-01 19:49:08,857 INFO  [Log] MB1880_01: Open URL; Action: open URL 
+2016-12-01 19:49:13,932 INFO  [Log] MB1880_02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-01 19:49:14,539 INFO  [Log] MB1880_03: Enter city as Noida; Action: Submited Value 
+2016-12-01 19:49:15,541 INFO  [Log] MB1880_04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-01 19:49:16,377 INFO  [Log] MB1880_05: Click Property Type: Action click 
+2016-12-01 19:49:16,756 INFO  [Log] MB1880_06: Manual Wait: Action click 
+2016-12-01 19:49:18,757 INFO  [Log] MB1880_07; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-01 19:49:19,165 INFO  [Log] MB1880_08: Click on Flat: Action click 
+2016-12-01 19:49:19,615 INFO  [Log] MB1880_09: Click on House/Vilaa: Action click 
+2016-12-01 19:49:20,058 INFO  [Log] MB1880_10: Click on Plot: Action click 
+2016-12-01 19:49:22,060 INFO  [Log] MB1880_11; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-01 19:49:22,580 INFO  [Log] MB1880_12: Click Budget; Action: Mouse Hover and Clicked 
+2016-12-01 19:49:30,202 INFO  [Log] MB1880_13: Select 60lac-70lac: Action Element is not present moving to next step 
+2016-12-01 19:49:34,258 ERROR [Log] Error#: MagicBricksMB1880_14ObjectRepClickIf  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.05 seconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir8048_22620}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6af7b7efa7e86c428fd6df0ae4e40af9null:Exception is not handled 
+2016-12-01 19:49:43,357 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2016-12-01 19:49:43,997 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2016-12-01 19:49:44,455 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2016-12-01 19:49:44,456 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:49:44,457 FATAL [Log] MagicBricksMB1880_14ObjectRepClickIf  org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.05 seconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.228', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir8048_22620}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6af7b7efa7e86c428fd6df0ae4e40af9null:Exception is not handled 
+2016-12-01 19:49:44,694 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:49:45,496 INFO  [Log] ####Closing Test Suite #### 
+2016-12-01 19:49:45,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-01 19:49:45,496 INFO  [Log] Creating Logs backup and storing for further reference 

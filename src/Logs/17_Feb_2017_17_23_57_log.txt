@@ -1,0 +1,12 @@
+2017-02-17 17:23:53,728 INFO  [Log] Test Scenario Configuration started 
+2017-02-17 17:23:53,751 INFO  [Log] Initialing HTML reporting 
+2017-02-17 17:23:54,573 INFO  [Log] Starting Test Suit Execution 
+2017-02-17 17:23:54,573 INFO  [Log] Creating Test suit report 
+2017-02-17 17:23:55,835 WARN  [Log] Browser instance value is null 
+2017-02-17 17:23:57,102 INFO  [Log] Object repository is created successfully 
+2017-02-17 17:23:57,323 FATAL [Log] Not able to open File: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\1_6_NewProjects_Test Case MB-312: java.io.FileNotFoundException: D:\Automation\Automation_Framework_Puresoftware\src\DataEngine\1_6_NewProjects_Test Case MB-312 (The system cannot find the file specified) 
+2017-02-17 17:23:57,324 FATAL [Log] Not able to find Active Data column, Please make sure that atlease 1 column have 'Data(Yes)' header in respective test script 
+2017-02-17 17:23:57,324 FATAL [Log] No Data(Yes) column found in test scriptD:\Automation\Automation_Framework_Puresoftware\src\DataEngine\1_6_NewProjects_Test Case MB-312 
+2017-02-17 17:23:57,834 INFO  [Log] ####Closing Test Suite #### 
+2017-02-17 17:23:57,834 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-17 17:23:57,834 INFO  [Log] Creating Logs backup and storing for further reference 

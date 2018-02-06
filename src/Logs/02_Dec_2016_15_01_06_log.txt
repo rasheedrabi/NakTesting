@@ -1,0 +1,60 @@
+2016-12-02 14:59:14,566 INFO  [Log] Test Scenario Configuration started 
+2016-12-02 14:59:14,646 INFO  [Log] Initialing HTML reporting 
+2016-12-02 14:59:15,803 INFO  [Log] Starting Test Suit Execution 
+2016-12-02 14:59:15,803 INFO  [Log] Creating Test suit report 
+2016-12-02 14:59:18,938 WARN  [Log] Browser instance value is null 
+2016-12-02 14:59:21,476 INFO  [Log] Object repository is created successfully 
+2016-12-02 14:59:22,084 INFO  [Log] **************************************************************************************** 
+2016-12-02 14:59:22,084 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-02 14:59:22,084 INFO  [Log] **************************************************************************************** 
+2016-12-02 14:59:42,180 INFO  [Log] #### Executing Test case: PropertyDetails_Test Case MB-1695; Description: PropertyDetails_Test Case MB-1695 In Chrome Browser for TestData:1 
+2016-12-02 14:59:53,766 INFO  [Log] MB1880_01: Open URL; Action: open URL 
+2016-12-02 14:59:58,828 INFO  [Log] MB1880_02; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 14:59:59,803 INFO  [Log] MB1880_03: Enter city as Noida; Action: Submited Value 
+2016-12-02 15:00:00,813 INFO  [Log] MB1880_04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:01,397 INFO  [Log] MB1880_05: Click Property Type: Action click 
+2016-12-02 15:00:02,708 INFO  [Log] MB1880_06: Manual Wait: Action click 
+2016-12-02 15:00:04,709 INFO  [Log] MB1880_07; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:05,213 INFO  [Log] MB1880_08: Click on Flat: Action click 
+2016-12-02 15:00:05,674 INFO  [Log] MB1880_09: Click on House/Vilaa: Action click 
+2016-12-02 15:00:06,031 INFO  [Log] MB1880_10: Click on Plot: Action click 
+2016-12-02 15:00:08,035 INFO  [Log] MB1880_11; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:08,517 INFO  [Log] MB1880_12: Click Budget; Action: Mouse Hover and Clicked 
+2016-12-02 15:00:17,166 INFO  [Log] MB1880_13: Select 60lac-70lac: Action Element is not present moving to next step 
+2016-12-02 15:00:25,817 INFO  [Log] MB1880_14: Select 1.2-1,4Cr: Action Element is not present moving to next step 
+2016-12-02 15:00:26,387 INFO  [Log] MB1880_15: Select minimum as 60 Lac: Action Submit If 
+2016-12-02 15:00:28,389 INFO  [Log] MB1880_16; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:28,880 INFO  [Log] MB1880_17: Select maximum as 1.4Cr: Action Submit If 
+2016-12-02 15:00:30,383 INFO  [Log] MB1880_18; Not Waited 1500: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:45,137 INFO  [Log] MB1880_19: Click on Search: Action click 
+2016-12-02 15:00:49,142 INFO  [Log] MB1880_20; Not Waited 4000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:50,107 INFO  [Log] MB1880_21: Click New Projects: Action click 
+2016-12-02 15:00:55,110 INFO  [Log] MB1880_22; Not Waited 5000: Milli seconds for Element; Manual Wait is disabled 
+2016-12-02 15:00:56,562 INFO  [Log] MB1880_23: Shortlist project: Action click 
+2016-12-02 15:00:57,512 INFO  [Log] MB1880_24: Shortlist project: Action click 
+2016-12-02 15:00:58,394 ERROR [Log] Error#: MagicBricksMB1880_25XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (358, 653). Other element would receive the click: <img class="" src="http://cdn.staticmb.com/images/blank.gif" data-original="https://img.staticmb.com/mbimages/project/Photo_h300_w450/Project-Photo-39-Gayatri-Life-Noida-5020776_480_1366_300_450.jpg" alt="Gayatri Life-Image" title="Gayatri Life-Image" data-img="https://img.staticmb.com/mbimages/project/Photo_h300_w450/Project-Photo-39-Gayatri-Life-Noida-5020776_480_1366_300_450.jpg" width="auto" height="232" onclick="showPhotoMap('/bricks/photoComponent.html?prjPsmId=5020776&amp;fromPage=search','5020776_C');">
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 212 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.241', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir4088_22167}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 40d5607bce805cc29428b3380ef8485anull:Exception is not handled 
+2016-12-02 15:01:04,319 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2016-12-02 15:01:04,680 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2016-12-02 15:01:05,070 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2016-12-02 15:01:05,070 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 15:01:05,070 FATAL [Log] MagicBricksMB1880_25XpathClick  org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (358, 653). Other element would receive the click: <img class="" src="http://cdn.staticmb.com/images/blank.gif" data-original="https://img.staticmb.com/mbimages/project/Photo_h300_w450/Project-Photo-39-Gayatri-Life-Noida-5020776_480_1366_300_450.jpg" alt="Gayatri Life-Image" title="Gayatri Life-Image" data-img="https://img.staticmb.com/mbimages/project/Photo_h300_w450/Project-Photo-39-Gayatri-Life-Noida-5020776_480_1366_300_450.jpg" width="auto" height="232" onclick="showPhotoMap('/bricks/photoComponent.html?prjPsmId=5020776&amp;fromPage=search','5020776_C');">
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 212 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.241', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir4088_22167}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 40d5607bce805cc29428b3380ef8485anull:Exception is not handled 
+2016-12-02 15:01:05,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 15:01:06,061 INFO  [Log] ####Closing Test Suite #### 
+2016-12-02 15:01:06,061 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-02 15:01:06,061 INFO  [Log] Creating Logs backup and storing for further reference 

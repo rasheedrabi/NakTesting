@@ -1,0 +1,28 @@
+2017-02-21 21:56:24,975 INFO  [Log] Test Scenario Configuration started 
+2017-02-21 21:56:25,008 INFO  [Log] Initialing HTML reporting 
+2017-02-21 21:56:26,207 INFO  [Log] Starting Test Suit Execution 
+2017-02-21 21:56:26,207 INFO  [Log] Creating Test suit report 
+2017-02-21 21:56:27,648 WARN  [Log] Browser instance value is null 
+2017-02-21 21:56:29,017 INFO  [Log] Object repository is created successfully 
+2017-02-21 21:56:29,193 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:56:29,193 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-21 21:56:29,193 INFO  [Log] **************************************************************************************** 
+2017-02-21 21:56:38,976 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-21 21:56:52,672 INFO  [Log] RG-01: Open URL; Action: open URL 
+2017-02-21 21:56:54,713 INFO  [Log] RG-02; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:57:03,760 INFO  [Log] RG-03: Click on Exams: Action click 
+2017-02-21 21:57:04,763 INFO  [Log] RG-04; Not Waited 1000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:57:32,144 INFO  [Log] RG-05: Select Exams: Action click 
+2017-02-21 21:57:34,147 INFO  [Log] RG-06; Not Waited 2000: Milli seconds for Element; Manual Wait is disabled 
+2017-02-21 21:58:44,402 ERROR [Log] Error#: RateGain-1RG-07XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 21:58:50,577 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-21 21:58:51,098 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-21 21:58:51,587 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-21 21:58:51,587 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:58:51,587 FATAL [Log] RateGain-1RG-07XpathClick: Not able to search the Element on Active window java.util.NoSuchElementException 
+2017-02-21 21:58:51,701 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:58:52,208 INFO  [Log] RateGain-2_RateGain -2 
+2017-02-21 21:58:52,554 INFO  [Log] RateGain-3_RateGain-3 
+2017-02-21 21:58:52,868 INFO  [Log] ####Closing Test Suite #### 
+2017-02-21 21:58:52,868 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-21 21:58:52,868 INFO  [Log] Creating Logs backup and storing for further reference 

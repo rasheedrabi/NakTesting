@@ -1,0 +1,37 @@
+2017-02-20 16:52:28,351 INFO  [Log] Test Scenario Configuration started 
+2017-02-20 16:52:28,371 INFO  [Log] Initialing HTML reporting 
+2017-02-20 16:52:29,191 INFO  [Log] Starting Test Suit Execution 
+2017-02-20 16:52:29,191 INFO  [Log] Creating Test suit report 
+2017-02-20 16:52:30,456 WARN  [Log] Browser instance value is null 
+2017-02-20 16:52:32,521 INFO  [Log] Object repository is created successfully 
+2017-02-20 16:52:32,754 INFO  [Log] **************************************************************************************** 
+2017-02-20 16:52:32,754 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 #### Executing Test case: RateGain-1; Description: RateGain -1 For Data: 1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 16:52:32,754 INFO  [Log] **************************************************************************************** 
+2017-02-20 16:52:46,279 INFO  [Log] #### Executing Test case: RateGain-1; Description: RateGain -1 In Chrome Browser for TestData:1 
+2017-02-20 16:52:46,800 ERROR [Log] Error#: RateGain-1RG-01URLOpenURL  org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32603,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 140 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.105', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir1032_32162}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c97c8bb5ae5c663b9249367c0fafdc1null:Exception is not handled 
+2017-02-20 16:52:52,406 INFO  [Log] Quiting all instance of Browser(Firefox) 
+2017-02-20 16:52:53,088 INFO  [Log] Quiting all instance of Browser(Chrome) 
+2017-02-20 16:52:53,840 INFO  [Log] Quiting all instance of Browser(Internet explorer) 
+2017-02-20 16:52:53,850 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:52:53,850 FATAL [Log] RateGain-1RG-01URLOpenURL  org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32603,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 140 milliseconds
+Build info: version: '2.48.0', revision: 'b7b081a', time: '2015-10-07 15:45:39'
+System info: host: 'ajay-chaddha-LP', ip: '192.168.2.105', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\ajaycha\AppData\Local\Temp\scoped_dir1032_32162}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c97c8bb5ae5c663b9249367c0fafdc1null:Exception is not handled 
+2017-02-20 16:52:53,985 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:52:54,739 INFO  [Log] ProjectDetails_Test Case MB-1880_ProjectDetails_Test Case MB-1880 
+2017-02-20 16:52:55,179 INFO  [Log] ####Closing Test Suite #### 
+2017-02-20 16:52:55,179 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D Test Case             XXXXXXXXXXXXXXXXXXXXXX 
+2017-02-20 16:52:55,179 INFO  [Log] Creating Logs backup and storing for further reference 
